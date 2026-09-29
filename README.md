@@ -2,7 +2,7 @@
 
 Course materials for MAR 6930 Special Topic (Data Visualization), Warrington College of Business, University of Florida.
 
-Course document: link will be added here.
+Course document (Fall 2026 MOD 2): https://docs.google.com/document/d/1SBMHcK5rY3BfYncUkNYf708lUGFVzv2eh3V_0nzIvpI/edit
 
 ## Downloading a file
 
