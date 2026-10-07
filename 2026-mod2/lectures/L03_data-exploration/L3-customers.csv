@@ -1,0 +1,4001 @@
+customer_id,acq_channel,region,n_orders_180d
+1,Paid Social,Midwest,1
+2,Organic,West,0
+3,Email,West,1
+4,Email,Northeast,1
+5,Paid Search,Northeast,2
+6,Paid Search,South,0
+7,Paid Search,South,0
+8,Organic,South,0
+9,Email,Midwest,0
+10,Email,Northeast,0
+11,Paid Search,Northeast,2
+12,Organic,South,0
+13,Organic,Midwest,0
+14,Paid Search,Northeast,0
+15,Paid Search,Midwest,0
+16,Paid Search,South,0
+17,Paid Social,West,0
+18,Paid Social,West,0
+19,Paid Social,South,0
+20,Paid Search,Northeast,0
+21,Email,South,2
+22,Paid Search,Northeast,0
+23,Paid Search,Midwest,0
+24,Paid Social,West,0
+25,Paid Social,Midwest,0
+26,Organic,West,0
+27,Paid Search,South,1
+28,Paid Social,Northeast,0
+29,Email,Midwest,0
+30,Paid Search,South,2
+31,Email,Midwest,0
+32,Paid Search,South,0
+33,Paid Search,Northeast,0
+34,Organic,West,0
+35,Organic,Northeast,0
+36,Organic,West,0
+37,Paid Social,West,0
+38,Paid Search,West,0
+39,Email,Midwest,0
+40,Paid Social,Midwest,0
+41,Paid Search,West,0
+42,Paid Social,South,2
+43,Paid Search,South,0
+44,Organic,Midwest,1
+45,Paid Search,South,0
+46,Email,South,0
+47,Paid Social,South,0
+48,Paid Social,Midwest,1
+49,Paid Social,West,0
+50,Paid Search,Northeast,0
+51,Organic,West,0
+52,Organic,Midwest,0
+53,Organic,West,0
+54,Organic,Midwest,1
+55,Email,West,0
+56,Organic,Northeast,0
+57,Paid Search,West,2
+58,Paid Search,Northeast,0
+59,Paid Search,West,0
+60,Paid Social,West,3
+61,Paid Social,South,0
+62,Paid Search,Northeast,0
+63,Organic,West,0
+64,Paid Social,South,0
+65,Paid Search,West,0
+66,Paid Social,Northeast,0
+67,Paid Search,Northeast,0
+68,Organic,West,1
+69,Paid Search,Midwest,0
+70,Organic,West,0
+71,Organic,South,0
+72,Paid Search,Midwest,1
+73,Paid Search,Midwest,0
+74,Organic,Midwest,1
+75,Email,Midwest,0
+76,Email,Midwest,0
+77,Organic,South,0
+78,Paid Search,South,0
+79,Paid Social,West,1
+80,Paid Search,Northeast,0
+81,Organic,Midwest,2
+82,Email,Northeast,0
+83,Paid Social,Midwest,2
+84,Paid Search,Midwest,2
+85,Paid Social,Northeast,0
+86,Paid Social,Northeast,1
+87,Email,Northeast,0
+88,Email,Midwest,0
+89,Organic,West,0
+90,Paid Social,Northeast,2
+91,Paid Search,Midwest,0
+92,Email,South,0
+93,Organic,South,1
+94,Email,West,0
+95,Organic,South,0
+96,Paid Social,South,0
+97,Paid Social,Northeast,0
+98,Paid Social,Northeast,0
+99,Paid Search,South,0
+100,Paid Search,Northeast,0
+101,Paid Search,Midwest,0
+102,Email,South,0
+103,Paid Social,South,0
+104,Paid Social,Northeast,0
+105,Organic,South,0
+106,Paid Search,Midwest,0
+107,Paid Social,West,0
+108,Organic,Northeast,3
+109,Paid Search,West,0
+110,Paid Search,Midwest,0
+111,Paid Search,Midwest,0
+112,Paid Search,South,3
+113,Organic,Northeast,2
+114,Organic,Northeast,3
+115,Email,Midwest,0
+116,Organic,South,0
+117,Organic,West,0
+118,Paid Search,South,0
+119,Organic,Northeast,1
+120,Paid Social,Midwest,0
+121,Organic,South,0
+122,Organic,South,0
+123,Paid Social,Midwest,0
+124,Paid Search,West,2
+125,Paid Search,West,0
+126,Paid Social,Midwest,0
+127,Organic,Midwest,0
+128,Organic,West,0
+129,Paid Search,South,0
+130,Paid Social,Northeast,0
+131,Paid Social,South,1
+132,Paid Search,Northeast,0
+133,Paid Search,Midwest,2
+134,Paid Social,Midwest,0
+135,Organic,Midwest,3
+136,Paid Social,Northeast,0
+137,Paid Social,Midwest,0
+138,Email,South,1
+139,Paid Social,Midwest,0
+140,Organic,Midwest,0
+141,Organic,South,1
+142,Paid Search,Northeast,0
+143,Paid Social,Northeast,0
+144,Paid Social,West,0
+145,Paid Search,West,0
+146,Paid Search,Midwest,0
+147,Email,Northeast,0
+148,Paid Social,South,0
+149,Paid Search,Midwest,0
+150,Paid Search,West,0
+151,Organic,Northeast,0
+152,Paid Search,Northeast,0
+153,Paid Search,Midwest,0
+154,Paid Social,South,0
+155,Organic,South,0
+156,Paid Search,Northeast,0
+157,Email,South,0
+158,Organic,West,1
+159,Paid Search,West,0
+160,Email,Midwest,2
+161,Paid Social,South,1
+162,Email,Northeast,1
+163,Email,South,0
+164,Paid Social,South,1
+165,Paid Search,Midwest,1
+166,Organic,South,0
+167,Paid Social,Northeast,0
+168,Paid Search,Northeast,0
+169,Paid Search,South,0
+170,Email,Northeast,0
+171,Email,Northeast,0
+172,Paid Search,West,0
+173,Paid Social,South,1
+174,Paid Search,South,3
+175,Email,West,4
+176,Paid Search,West,0
+177,Email,Midwest,0
+178,Paid Social,West,0
+179,Organic,South,2
+180,Paid Search,South,0
+181,Paid Social,South,0
+182,Paid Search,Midwest,0
+183,Organic,Midwest,0
+184,Organic,South,3
+185,Paid Search,Northeast,0
+186,Email,Midwest,0
+187,Organic,Northeast,0
+188,Email,Midwest,0
+189,Paid Social,Midwest,0
+190,Paid Search,Midwest,3
+191,Paid Search,West,0
+192,Organic,West,0
+193,Organic,South,0
+194,Email,Midwest,0
+195,Paid Social,Midwest,0
+196,Paid Social,Northeast,0
+197,Email,Northeast,1
+198,Organic,South,0
+199,Organic,South,2
+200,Organic,Midwest,1
+201,Email,West,1
+202,Paid Search,Northeast,0
+203,Paid Search,Northeast,0
+204,Organic,West,2
+205,Email,Northeast,0
+206,Paid Search,South,0
+207,Paid Search,Midwest,0
+208,Email,South,0
+209,Paid Search,Northeast,0
+210,Paid Search,Northeast,2
+211,Paid Social,Northeast,0
+212,Email,Midwest,2
+213,Email,South,0
+214,Paid Search,Northeast,3
+215,Email,Midwest,0
+216,Paid Search,West,3
+217,Paid Social,Northeast,0
+218,Email,South,1
+219,Email,Midwest,0
+220,Organic,South,0
+221,Email,South,0
+222,Email,Midwest,0
+223,Paid Search,West,0
+224,Paid Social,West,0
+225,Paid Search,Midwest,0
+226,Paid Search,Midwest,1
+227,Organic,South,0
+228,Paid Social,Midwest,5
+229,Organic,South,0
+230,Email,Northeast,0
+231,Organic,Midwest,1
+232,Paid Social,Midwest,0
+233,Email,South,2
+234,Paid Social,West,1
+235,Paid Search,Northeast,0
+236,Email,South,0
+237,Paid Search,Northeast,0
+238,Paid Search,West,1
+239,Email,Midwest,0
+240,Paid Search,South,0
+241,Organic,Midwest,0
+242,Organic,South,2
+243,Organic,West,0
+244,Paid Social,South,0
+245,Paid Search,South,3
+246,Organic,West,0
+247,Paid Social,South,2
+248,Organic,Northeast,0
+249,Organic,Midwest,3
+250,Organic,West,0
+251,Paid Search,South,0
+252,Paid Social,Northeast,2
+253,Organic,South,0
+254,Paid Social,South,3
+255,Paid Search,Northeast,0
+256,Email,Midwest,0
+257,Organic,West,0
+258,Email,South,0
+259,Email,South,0
+260,Paid Search,South,0
+261,Email,Northeast,0
+262,Organic,West,0
+263,Paid Search,South,0
+264,Paid Social,South,1
+265,Organic,Midwest,0
+266,Email,South,0
+267,Email,Midwest,0
+268,Email,Northeast,0
+269,Paid Social,West,0
+270,Paid Search,West,0
+271,Organic,Midwest,0
+272,Organic,West,1
+273,Organic,Northeast,2
+274,Organic,South,0
+275,Paid Social,Midwest,0
+276,Paid Social,Midwest,0
+277,Organic,South,0
+278,Email,South,0
+279,Email,Northeast,0
+280,Organic,South,1
+281,Organic,Northeast,2
+282,Paid Social,Midwest,0
+283,Paid Social,Northeast,0
+284,Paid Search,Northeast,0
+285,Email,Midwest,0
+286,Paid Search,Midwest,0
+287,Paid Social,West,2
+288,Paid Social,Midwest,0
+289,Paid Search,South,0
+290,Email,West,0
+291,Paid Search,South,2
+292,Paid Search,Northeast,0
+293,Organic,Midwest,0
+294,Paid Social,West,0
+295,Paid Search,South,0
+296,Paid Social,South,0
+297,Organic,Northeast,1
+298,Paid Search,Northeast,0
+299,Email,South,0
+300,Paid Search,Midwest,2
+301,Paid Search,Northeast,0
+302,Paid Social,West,0
+303,Paid Social,West,0
+304,Email,Midwest,0
+305,Email,West,0
+306,Organic,Northeast,0
+307,Paid Social,South,2
+308,Paid Social,Midwest,0
+309,Organic,West,0
+310,Paid Search,West,0
+311,Paid Social,South,0
+312,Paid Search,West,1
+313,Paid Search,Northeast,0
+314,Organic,West,0
+315,Organic,West,0
+316,Email,Northeast,0
+317,Paid Social,Midwest,1
+318,Paid Search,Northeast,0
+319,Paid Search,South,0
+320,Paid Search,South,2
+321,Paid Social,Midwest,0
+322,Email,West,0
+323,Email,Midwest,0
+324,Paid Search,South,0
+325,Organic,West,1
+326,Email,West,1
+327,Email,Northeast,0
+328,Email,West,0
+329,Paid Social,Northeast,0
+330,Paid Search,West,0
+331,Paid Social,South,0
+332,Organic,Northeast,2
+333,Paid Search,South,5
+334,Paid Search,Midwest,0
+335,Paid Search,South,0
+336,Paid Search,Northeast,0
+337,Organic,Midwest,0
+338,Email,West,0
+339,Paid Social,South,2
+340,Paid Search,Northeast,0
+341,Paid Social,South,1
+342,Paid Social,Northeast,0
+343,Paid Search,West,0
+344,Paid Social,West,0
+345,Paid Social,Midwest,0
+346,Email,South,0
+347,Email,West,0
+348,Paid Search,Midwest,0
+349,Paid Social,West,0
+350,Email,Midwest,0
+351,Paid Social,West,0
+352,Organic,Midwest,1
+353,Email,South,0
+354,Paid Search,West,5
+355,Paid Search,South,0
+356,Email,Midwest,0
+357,Paid Search,Northeast,0
+358,Email,Midwest,0
+359,Organic,Midwest,0
+360,Email,Northeast,0
+361,Paid Social,Northeast,0
+362,Email,Midwest,2
+363,Paid Social,West,0
+364,Paid Social,South,0
+365,Organic,Northeast,0
+366,Paid Social,Midwest,0
+367,Organic,Northeast,0
+368,Organic,South,0
+369,Paid Search,Northeast,0
+370,Paid Search,Northeast,0
+371,Paid Search,Northeast,0
+372,Paid Search,South,0
+373,Paid Search,Northeast,0
+374,Email,South,0
+375,Paid Search,South,0
+376,Paid Social,South,2
+377,Organic,South,1
+378,Paid Search,West,0
+379,Organic,Northeast,0
+380,Paid Search,South,1
+381,Paid Search,Northeast,0
+382,Email,Northeast,0
+383,Email,Midwest,2
+384,Organic,Midwest,0
+385,Email,West,0
+386,Organic,Midwest,0
+387,Paid Search,West,0
+388,Paid Search,Northeast,1
+389,Organic,Northeast,0
+390,Organic,Northeast,0
+391,Organic,Northeast,2
+392,Paid Social,South,0
+393,Paid Social,Midwest,0
+394,Organic,Northeast,0
+395,Paid Social,West,0
+396,Organic,West,0
+397,Organic,South,0
+398,Paid Social,Northeast,0
+399,Organic,Northeast,0
+400,Organic,Northeast,0
+401,Paid Search,Northeast,0
+402,Organic,South,0
+403,Paid Social,Northeast,1
+404,Organic,South,0
+405,Paid Social,West,0
+406,Organic,Midwest,0
+407,Paid Social,West,3
+408,Paid Search,Northeast,0
+409,Organic,South,0
+410,Paid Search,Midwest,0
+411,Paid Social,Northeast,0
+412,Organic,Northeast,1
+413,Organic,Midwest,1
+414,Email,Midwest,0
+415,Email,South,0
+416,Paid Social,South,0
+417,Paid Search,South,0
+418,Paid Social,Northeast,0
+419,Email,South,1
+420,Organic,Northeast,0
+421,Organic,Northeast,0
+422,Organic,West,0
+423,Paid Search,Midwest,0
+424,Paid Social,Midwest,0
+425,Paid Search,South,0
+426,Paid Social,South,0
+427,Paid Social,Northeast,0
+428,Organic,Northeast,0
+429,Paid Social,Northeast,0
+430,Paid Search,West,2
+431,Paid Search,Midwest,1
+432,Organic,South,0
+433,Email,South,0
+434,Paid Search,West,0
+435,Paid Search,Northeast,0
+436,Email,South,1
+437,Paid Search,South,0
+438,Organic,West,0
+439,Email,West,0
+440,Paid Search,Northeast,0
+441,Paid Search,West,0
+442,Organic,West,2
+443,Paid Social,Northeast,0
+444,Paid Social,South,0
+445,Organic,South,0
+446,Organic,West,0
+447,Organic,Northeast,0
+448,Organic,West,3
+449,Paid Social,South,0
+450,Paid Search,Midwest,0
+451,Organic,South,0
+452,Email,Midwest,0
+453,Paid Social,West,0
+454,Organic,West,0
+455,Paid Search,West,2
+456,Paid Social,Northeast,0
+457,Paid Search,Midwest,0
+458,Paid Social,Northeast,0
+459,Paid Search,South,0
+460,Paid Search,South,0
+461,Paid Search,South,0
+462,Email,South,0
+463,Email,West,0
+464,Email,Northeast,1
+465,Organic,Midwest,0
+466,Paid Social,South,0
+467,Paid Search,Northeast,1
+468,Organic,Northeast,0
+469,Paid Search,West,1
+470,Organic,West,0
+471,Paid Search,West,5
+472,Organic,West,0
+473,Paid Search,Northeast,0
+474,Organic,South,0
+475,Paid Social,Midwest,0
+476,Organic,South,0
+477,Paid Search,South,0
+478,Email,South,1
+479,Organic,Midwest,0
+480,Paid Social,Midwest,0
+481,Email,Northeast,0
+482,Email,South,0
+483,Paid Social,Midwest,0
+484,Email,Midwest,0
+485,Email,Northeast,2
+486,Organic,Midwest,1
+487,Paid Search,Northeast,0
+488,Paid Search,South,1
+489,Organic,West,0
+490,Organic,Midwest,0
+491,Paid Social,South,0
+492,Email,Midwest,0
+493,Paid Search,Midwest,0
+494,Paid Search,West,0
+495,Paid Social,Midwest,1
+496,Paid Social,Midwest,0
+497,Email,South,0
+498,Paid Search,Northeast,0
+499,Organic,South,0
+500,Organic,South,0
+501,Email,Midwest,0
+502,Paid Social,South,0
+503,Paid Social,South,0
+504,Organic,Northeast,1
+505,Email,South,0
+506,Paid Search,South,0
+507,Organic,Midwest,0
+508,Organic,Northeast,0
+509,Organic,Midwest,4
+510,Email,West,0
+511,Email,Northeast,0
+512,Paid Social,South,0
+513,Organic,Northeast,3
+514,Organic,Midwest,0
+515,Paid Search,Midwest,0
+516,Paid Search,South,3
+517,Paid Social,South,0
+518,Organic,West,2
+519,Organic,Northeast,0
+520,Paid Search,Northeast,1
+521,Email,West,0
+522,Paid Social,Midwest,0
+523,Organic,West,0
+524,Organic,Midwest,0
+525,Organic,West,0
+526,Paid Social,South,2
+527,Paid Social,Midwest,0
+528,Paid Search,West,0
+529,Paid Search,Midwest,0
+530,Organic,Northeast,0
+531,Organic,South,0
+532,Organic,Northeast,0
+533,Organic,Northeast,0
+534,Email,South,1
+535,Organic,Midwest,0
+536,Organic,Midwest,1
+537,Organic,South,0
+538,Paid Search,Midwest,0
+539,Paid Social,Northeast,0
+540,Paid Search,Northeast,0
+541,Organic,Northeast,0
+542,Email,South,0
+543,Paid Search,Northeast,0
+544,Email,South,0
+545,Email,South,3
+546,Paid Social,West,0
+547,Paid Search,Northeast,0
+548,Email,Midwest,2
+549,Paid Social,Midwest,3
+550,Organic,West,0
+551,Paid Social,West,0
+552,Organic,Northeast,0
+553,Email,Northeast,0
+554,Email,West,1
+555,Organic,South,0
+556,Paid Social,Midwest,0
+557,Paid Search,Midwest,0
+558,Paid Search,Midwest,3
+559,Organic,West,0
+560,Email,West,0
+561,Email,Midwest,0
+562,Paid Search,South,0
+563,Paid Search,West,0
+564,Paid Search,Northeast,0
+565,Paid Social,Northeast,0
+566,Email,West,0
+567,Paid Social,South,0
+568,Paid Social,Northeast,0
+569,Organic,Northeast,3
+570,Paid Social,West,1
+571,Paid Social,South,0
+572,Organic,Midwest,2
+573,Paid Social,Northeast,1
+574,Email,West,1
+575,Organic,West,3
+576,Organic,South,0
+577,Paid Search,South,0
+578,Organic,Northeast,0
+579,Paid Social,West,0
+580,Paid Search,Midwest,0
+581,Paid Social,West,1
+582,Organic,South,0
+583,Paid Social,West,0
+584,Paid Social,West,1
+585,Email,Midwest,0
+586,Paid Search,West,0
+587,Paid Search,South,3
+588,Paid Search,Northeast,0
+589,Paid Search,Midwest,0
+590,Paid Search,Midwest,0
+591,Paid Search,Midwest,0
+592,Email,Northeast,1
+593,Paid Search,South,0
+594,Paid Social,South,0
+595,Organic,South,0
+596,Paid Social,Midwest,1
+597,Email,Midwest,0
+598,Paid Search,Northeast,0
+599,Paid Search,South,0
+600,Paid Search,South,0
+601,Paid Search,Northeast,0
+602,Paid Search,West,0
+603,Paid Search,West,0
+604,Paid Search,South,0
+605,Paid Search,West,2
+606,Paid Social,West,0
+607,Paid Search,West,0
+608,Paid Social,Northeast,0
+609,Paid Social,West,0
+610,Email,South,0
+611,Paid Search,South,0
+612,Organic,Northeast,0
+613,Email,South,0
+614,Paid Search,Northeast,0
+615,Organic,Northeast,0
+616,Organic,South,0
+617,Paid Search,West,0
+618,Paid Search,West,1
+619,Organic,South,1
+620,Email,West,0
+621,Paid Search,West,0
+622,Paid Search,West,0
+623,Paid Social,Northeast,0
+624,Paid Social,Midwest,0
+625,Email,West,0
+626,Paid Social,Midwest,0
+627,Paid Social,South,0
+628,Email,South,0
+629,Paid Search,Midwest,0
+630,Paid Search,South,0
+631,Email,Northeast,0
+632,Organic,South,0
+633,Paid Social,West,0
+634,Paid Social,West,0
+635,Paid Search,Northeast,0
+636,Paid Social,West,0
+637,Paid Social,South,0
+638,Paid Search,Midwest,0
+639,Paid Search,West,0
+640,Paid Social,West,0
+641,Paid Search,West,1
+642,Paid Social,South,0
+643,Paid Search,West,0
+644,Paid Social,Northeast,0
+645,Paid Search,Midwest,0
+646,Organic,Midwest,0
+647,Email,Midwest,2
+648,Email,South,1
+649,Organic,West,0
+650,Paid Social,Northeast,1
+651,Paid Search,Northeast,0
+652,Paid Social,Midwest,0
+653,Email,South,2
+654,Email,West,0
+655,Paid Social,South,0
+656,Paid Search,Northeast,0
+657,Paid Search,West,0
+658,Paid Social,South,0
+659,Email,Northeast,1
+660,Email,Midwest,0
+661,Paid Social,South,0
+662,Organic,Midwest,0
+663,Email,South,1
+664,Paid Search,West,2
+665,Paid Search,West,0
+666,Paid Search,Midwest,2
+667,Paid Search,Northeast,0
+668,Paid Search,West,1
+669,Paid Search,Midwest,0
+670,Paid Search,Midwest,0
+671,Paid Search,South,0
+672,Organic,West,0
+673,Paid Search,Midwest,0
+674,Paid Social,Northeast,1
+675,Paid Social,South,0
+676,Organic,West,0
+677,Paid Search,Northeast,3
+678,Paid Social,West,2
+679,Organic,Midwest,0
+680,Organic,Midwest,0
+681,Organic,South,0
+682,Paid Search,Northeast,0
+683,Paid Search,West,0
+684,Email,South,0
+685,Organic,West,0
+686,Email,South,0
+687,Email,Northeast,2
+688,Paid Search,Northeast,2
+689,Organic,South,0
+690,Paid Search,West,0
+691,Paid Social,South,0
+692,Paid Social,South,0
+693,Paid Social,South,1
+694,Paid Search,South,0
+695,Paid Search,South,0
+696,Email,West,0
+697,Paid Search,South,0
+698,Email,South,0
+699,Paid Search,Northeast,1
+700,Paid Social,West,0
+701,Paid Social,Northeast,0
+702,Paid Search,Northeast,0
+703,Paid Social,Midwest,0
+704,Paid Search,Midwest,0
+705,Paid Search,South,0
+706,Organic,South,1
+707,Paid Social,West,3
+708,Organic,Northeast,0
+709,Paid Search,West,1
+710,Email,Midwest,2
+711,Organic,South,0
+712,Email,South,2
+713,Paid Social,South,0
+714,Paid Social,West,0
+715,Paid Social,South,0
+716,Organic,South,4
+717,Organic,Midwest,1
+718,Organic,West,0
+719,Paid Search,South,0
+720,Email,West,0
+721,Organic,South,0
+722,Paid Search,Northeast,0
+723,Paid Search,Northeast,0
+724,Email,South,2
+725,Email,Northeast,0
+726,Organic,Northeast,0
+727,Paid Search,West,0
+728,Organic,West,3
+729,Paid Search,Midwest,0
+730,Paid Search,Northeast,0
+731,Paid Search,Northeast,0
+732,Organic,Northeast,0
+733,Email,Midwest,0
+734,Paid Social,West,0
+735,Paid Social,South,0
+736,Organic,Northeast,1
+737,Paid Social,South,0
+738,Organic,South,3
+739,Paid Social,South,0
+740,Paid Social,Midwest,0
+741,Paid Social,Midwest,0
+742,Paid Social,Northeast,0
+743,Email,Northeast,0
+744,Paid Social,West,0
+745,Paid Search,Northeast,0
+746,Organic,Northeast,0
+747,Paid Social,Northeast,0
+748,Paid Social,Northeast,0
+749,Organic,South,2
+750,Email,West,0
+751,Paid Search,South,0
+752,Organic,South,0
+753,Email,Midwest,3
+754,Paid Social,South,0
+755,Paid Search,West,0
+756,Organic,West,0
+757,Email,Northeast,2
+758,Paid Social,West,0
+759,Organic,South,0
+760,Organic,West,3
+761,Paid Search,South,2
+762,Paid Social,West,0
+763,Paid Search,West,1
+764,Email,Northeast,0
+765,Paid Search,South,4
+766,Email,West,0
+767,Organic,West,0
+768,Organic,Northeast,0
+769,Paid Social,Midwest,1
+770,Organic,South,0
+771,Paid Search,Northeast,1
+772,Organic,South,1
+773,Paid Search,Northeast,1
+774,Paid Social,West,0
+775,Organic,South,0
+776,Paid Search,West,0
+777,Paid Search,Northeast,2
+778,Email,South,0
+779,Email,Northeast,0
+780,Email,Northeast,0
+781,Email,Northeast,0
+782,Paid Social,Northeast,0
+783,Paid Search,Midwest,1
+784,Paid Social,South,0
+785,Paid Search,South,3
+786,Organic,South,2
+787,Email,West,1
+788,Paid Social,West,0
+789,Paid Social,South,0
+790,Organic,South,2
+791,Paid Search,Northeast,0
+792,Email,West,0
+793,Paid Social,Northeast,0
+794,Email,South,0
+795,Paid Search,South,1
+796,Organic,South,0
+797,Organic,Northeast,1
+798,Email,West,0
+799,Email,Northeast,0
+800,Organic,Midwest,0
+801,Email,Northeast,0
+802,Paid Search,Northeast,0
+803,Email,West,0
+804,Email,Northeast,0
+805,Paid Social,West,0
+806,Email,South,0
+807,Organic,Northeast,0
+808,Organic,West,0
+809,Paid Social,Northeast,0
+810,Paid Search,West,2
+811,Organic,Northeast,0
+812,Organic,West,0
+813,Paid Search,Northeast,0
+814,Organic,South,0
+815,Organic,West,0
+816,Paid Social,West,0
+817,Email,West,2
+818,Paid Social,West,0
+819,Paid Search,West,0
+820,Paid Social,Northeast,0
+821,Organic,South,2
+822,Paid Search,South,0
+823,Paid Social,South,1
+824,Paid Social,South,0
+825,Paid Social,South,0
+826,Organic,Northeast,0
+827,Paid Social,Midwest,0
+828,Paid Social,Northeast,0
+829,Email,South,0
+830,Paid Social,South,0
+831,Paid Search,West,4
+832,Paid Social,Midwest,0
+833,Paid Search,Midwest,0
+834,Paid Search,Northeast,0
+835,Paid Social,South,0
+836,Paid Social,Northeast,4
+837,Organic,South,0
+838,Paid Social,South,0
+839,Email,Northeast,0
+840,Email,South,4
+841,Paid Search,West,1
+842,Email,West,0
+843,Paid Search,South,0
+844,Organic,Northeast,0
+845,Paid Search,Northeast,1
+846,Paid Social,South,0
+847,Paid Search,West,0
+848,Organic,Northeast,3
+849,Paid Social,West,1
+850,Email,Northeast,1
+851,Paid Search,West,0
+852,Email,South,0
+853,Paid Search,West,0
+854,Organic,South,2
+855,Paid Search,Midwest,1
+856,Paid Search,Northeast,0
+857,Paid Search,Northeast,0
+858,Paid Social,West,0
+859,Email,West,0
+860,Paid Search,West,0
+861,Organic,Midwest,0
+862,Paid Social,West,0
+863,Paid Social,Northeast,0
+864,Paid Social,South,4
+865,Paid Social,South,0
+866,Email,Midwest,0
+867,Paid Search,South,0
+868,Paid Search,Northeast,0
+869,Organic,Midwest,1
+870,Organic,West,1
+871,Paid Social,South,0
+872,Paid Search,Northeast,1
+873,Email,Northeast,0
+874,Paid Social,Northeast,0
+875,Paid Search,South,0
+876,Paid Search,Midwest,0
+877,Email,Midwest,0
+878,Email,Midwest,0
+879,Paid Search,South,0
+880,Paid Search,West,0
+881,Paid Search,Northeast,0
+882,Email,South,0
+883,Paid Search,West,0
+884,Paid Search,Northeast,0
+885,Organic,Northeast,0
+886,Paid Search,West,1
+887,Email,South,3
+888,Paid Search,Midwest,0
+889,Paid Search,Northeast,0
+890,Paid Search,Midwest,0
+891,Email,South,1
+892,Organic,Northeast,0
+893,Organic,Midwest,0
+894,Paid Social,Northeast,0
+895,Email,South,0
+896,Paid Search,Northeast,2
+897,Paid Search,Northeast,0
+898,Organic,South,0
+899,Paid Search,Northeast,1
+900,Paid Search,West,0
+901,Paid Search,Northeast,0
+902,Paid Search,South,0
+903,Paid Search,Northeast,0
+904,Email,South,0
+905,Paid Social,West,0
+906,Organic,Northeast,0
+907,Organic,West,0
+908,Paid Social,Northeast,0
+909,Paid Search,Midwest,0
+910,Paid Social,South,0
+911,Email,West,0
+912,Paid Search,Midwest,1
+913,Email,South,1
+914,Paid Social,Northeast,1
+915,Email,Northeast,1
+916,Paid Social,West,0
+917,Paid Search,South,0
+918,Organic,South,0
+919,Organic,West,0
+920,Paid Search,South,0
+921,Organic,West,0
+922,Paid Social,Midwest,0
+923,Organic,Midwest,0
+924,Organic,West,2
+925,Paid Social,Northeast,2
+926,Paid Search,South,0
+927,Paid Search,South,0
+928,Paid Social,Northeast,1
+929,Email,Midwest,0
+930,Paid Search,West,0
+931,Paid Search,South,0
+932,Organic,South,0
+933,Organic,West,0
+934,Paid Social,South,1
+935,Paid Search,South,0
+936,Paid Search,South,0
+937,Paid Search,West,0
+938,Organic,Midwest,0
+939,Paid Search,West,0
+940,Email,West,4
+941,Paid Search,South,0
+942,Email,South,0
+943,Email,West,0
+944,Organic,South,0
+945,Paid Search,West,0
+946,Paid Search,West,0
+947,Paid Search,Midwest,0
+948,Organic,Midwest,0
+949,Organic,West,3
+950,Email,West,6
+951,Email,South,0
+952,Email,Northeast,0
+953,Paid Search,South,1
+954,Organic,Midwest,0
+955,Paid Social,South,0
+956,Paid Social,Midwest,0
+957,Paid Social,South,0
+958,Paid Search,Midwest,1
+959,Paid Search,Northeast,0
+960,Email,Midwest,0
+961,Paid Search,South,0
+962,Email,Northeast,0
+963,Paid Search,South,0
+964,Paid Social,Midwest,0
+965,Paid Search,South,0
+966,Paid Social,Northeast,0
+967,Email,West,0
+968,Paid Search,Midwest,1
+969,Email,West,2
+970,Paid Social,South,0
+971,Email,South,1
+972,Organic,West,0
+973,Email,South,0
+974,Paid Search,Midwest,0
+975,Paid Search,South,0
+976,Paid Search,South,0
+977,Email,Northeast,0
+978,Paid Search,Northeast,0
+979,Paid Social,Northeast,0
+980,Email,Northeast,0
+981,Paid Social,West,0
+982,Organic,Northeast,0
+983,Paid Search,Midwest,0
+984,Paid Search,West,0
+985,Email,Midwest,1
+986,Paid Social,Northeast,0
+987,Email,Midwest,1
+988,Paid Social,Midwest,0
+989,Paid Search,Midwest,0
+990,Organic,West,0
+991,Organic,West,0
+992,Email,Midwest,0
+993,Paid Search,South,0
+994,Email,Midwest,1
+995,Paid Social,Northeast,0
+996,Paid Search,West,0
+997,Organic,Northeast,0
+998,Paid Search,South,0
+999,Organic,West,0
+1000,Paid Social,Midwest,0
+1001,Paid Search,South,0
+1002,Paid Social,South,0
+1003,Organic,West,0
+1004,Email,South,0
+1005,Organic,West,0
+1006,Email,Northeast,0
+1007,Email,West,0
+1008,Organic,West,0
+1009,Paid Search,Northeast,0
+1010,Paid Social,South,0
+1011,Paid Search,Northeast,0
+1012,Organic,Midwest,0
+1013,Organic,South,0
+1014,Paid Search,Midwest,1
+1015,Email,Northeast,0
+1016,Organic,Northeast,1
+1017,Paid Search,Northeast,0
+1018,Email,South,0
+1019,Organic,Midwest,0
+1020,Paid Search,West,1
+1021,Email,Midwest,0
+1022,Paid Search,South,2
+1023,Organic,West,0
+1024,Organic,Midwest,0
+1025,Organic,West,0
+1026,Paid Social,South,0
+1027,Organic,South,2
+1028,Organic,Northeast,1
+1029,Paid Social,Midwest,0
+1030,Organic,Northeast,0
+1031,Paid Search,South,1
+1032,Email,South,0
+1033,Paid Search,Midwest,0
+1034,Paid Search,Midwest,0
+1035,Paid Search,Northeast,0
+1036,Email,South,4
+1037,Paid Social,Midwest,0
+1038,Email,West,0
+1039,Paid Search,Midwest,4
+1040,Paid Social,West,1
+1041,Paid Social,West,0
+1042,Organic,Midwest,1
+1043,Paid Social,Northeast,0
+1044,Email,Midwest,0
+1045,Organic,Midwest,0
+1046,Email,Midwest,0
+1047,Paid Search,South,3
+1048,Paid Search,South,1
+1049,Organic,South,0
+1050,Paid Search,South,0
+1051,Organic,Northeast,0
+1052,Paid Social,West,1
+1053,Organic,Northeast,2
+1054,Organic,Northeast,0
+1055,Organic,South,0
+1056,Paid Social,Midwest,0
+1057,Organic,South,0
+1058,Paid Social,South,0
+1059,Paid Social,Midwest,0
+1060,Email,South,0
+1061,Organic,West,0
+1062,Organic,West,1
+1063,Organic,South,0
+1064,Paid Social,South,0
+1065,Paid Social,Midwest,0
+1066,Email,Northeast,1
+1067,Paid Search,South,0
+1068,Paid Search,South,0
+1069,Paid Social,West,0
+1070,Paid Search,Northeast,0
+1071,Paid Search,Midwest,0
+1072,Paid Search,Midwest,0
+1073,Paid Search,South,0
+1074,Paid Search,Northeast,3
+1075,Organic,West,0
+1076,Paid Social,South,0
+1077,Paid Social,Midwest,0
+1078,Email,Northeast,0
+1079,Paid Search,South,0
+1080,Organic,South,0
+1081,Organic,Northeast,1
+1082,Paid Search,Northeast,0
+1083,Paid Social,West,1
+1084,Organic,Northeast,0
+1085,Organic,Northeast,1
+1086,Paid Social,South,0
+1087,Email,West,0
+1088,Paid Search,Northeast,0
+1089,Organic,Midwest,0
+1090,Paid Search,Northeast,1
+1091,Organic,Northeast,0
+1092,Email,Northeast,4
+1093,Email,West,0
+1094,Paid Social,Northeast,2
+1095,Paid Search,Northeast,0
+1096,Paid Search,South,0
+1097,Paid Search,West,0
+1098,Paid Search,South,0
+1099,Organic,South,1
+1100,Paid Social,Northeast,0
+1101,Paid Search,South,0
+1102,Organic,Midwest,0
+1103,Organic,Midwest,0
+1104,Organic,South,0
+1105,Organic,South,0
+1106,Paid Search,Northeast,0
+1107,Paid Social,South,0
+1108,Organic,Northeast,0
+1109,Email,West,0
+1110,Paid Search,West,1
+1111,Organic,West,0
+1112,Paid Search,West,0
+1113,Paid Search,Midwest,0
+1114,Paid Social,Midwest,0
+1115,Email,South,0
+1116,Email,Midwest,0
+1117,Paid Search,South,0
+1118,Organic,South,3
+1119,Paid Search,West,0
+1120,Paid Search,South,0
+1121,Organic,South,0
+1122,Organic,West,0
+1123,Organic,Northeast,0
+1124,Organic,South,1
+1125,Email,West,0
+1126,Email,Midwest,1
+1127,Paid Search,South,0
+1128,Paid Social,Northeast,0
+1129,Paid Social,South,0
+1130,Paid Search,West,0
+1131,Email,Midwest,0
+1132,Paid Social,South,0
+1133,Paid Search,Northeast,0
+1134,Paid Search,Northeast,0
+1135,Email,West,0
+1136,Paid Search,South,0
+1137,Organic,Midwest,0
+1138,Paid Social,Northeast,0
+1139,Paid Social,Midwest,0
+1140,Email,West,0
+1141,Organic,Midwest,2
+1142,Paid Social,Northeast,0
+1143,Email,Midwest,0
+1144,Email,West,4
+1145,Paid Search,South,0
+1146,Organic,West,0
+1147,Organic,Midwest,3
+1148,Email,West,0
+1149,Organic,Midwest,0
+1150,Organic,Northeast,0
+1151,Email,South,0
+1152,Organic,Northeast,0
+1153,Email,West,0
+1154,Email,West,0
+1155,Email,Midwest,0
+1156,Organic,South,0
+1157,Paid Search,Northeast,1
+1158,Organic,West,0
+1159,Organic,South,0
+1160,Paid Search,Northeast,0
+1161,Organic,Midwest,0
+1162,Paid Search,Northeast,0
+1163,Paid Social,South,0
+1164,Email,South,1
+1165,Paid Search,Northeast,0
+1166,Organic,West,0
+1167,Organic,Northeast,1
+1168,Paid Social,Northeast,0
+1169,Paid Search,Northeast,1
+1170,Paid Search,West,0
+1171,Email,South,0
+1172,Organic,Midwest,0
+1173,Email,Northeast,2
+1174,Paid Search,Northeast,0
+1175,Email,South,0
+1176,Paid Social,West,0
+1177,Organic,West,1
+1178,Paid Search,Northeast,3
+1179,Organic,South,0
+1180,Paid Social,West,2
+1181,Organic,South,0
+1182,Paid Social,West,0
+1183,Email,Northeast,0
+1184,Organic,West,0
+1185,Paid Search,West,0
+1186,Organic,West,0
+1187,Email,Midwest,0
+1188,Paid Search,South,0
+1189,Paid Social,West,0
+1190,Email,South,3
+1191,Paid Search,South,2
+1192,Email,Midwest,0
+1193,Paid Social,West,0
+1194,Email,West,0
+1195,Paid Search,Northeast,0
+1196,Organic,West,1
+1197,Organic,Midwest,0
+1198,Organic,Northeast,0
+1199,Email,South,0
+1200,Paid Search,South,0
+1201,Organic,South,0
+1202,Paid Search,West,0
+1203,Paid Search,Midwest,3
+1204,Paid Social,Midwest,0
+1205,Paid Social,West,0
+1206,Organic,South,0
+1207,Email,West,3
+1208,Paid Social,South,2
+1209,Paid Search,West,0
+1210,Organic,Northeast,0
+1211,Paid Social,West,0
+1212,Paid Social,Northeast,1
+1213,Paid Search,South,0
+1214,Organic,West,0
+1215,Email,South,0
+1216,Paid Search,Midwest,3
+1217,Paid Search,South,0
+1218,Email,Midwest,0
+1219,Email,Northeast,0
+1220,Paid Search,Northeast,0
+1221,Organic,South,0
+1222,Paid Search,South,0
+1223,Paid Social,Northeast,0
+1224,Organic,South,1
+1225,Paid Social,South,0
+1226,Email,Northeast,0
+1227,Paid Social,Midwest,0
+1228,Paid Search,West,2
+1229,Organic,Northeast,2
+1230,Paid Social,Midwest,2
+1231,Organic,Midwest,1
+1232,Paid Search,South,0
+1233,Paid Search,Midwest,2
+1234,Paid Search,South,0
+1235,Email,South,0
+1236,Paid Social,Northeast,0
+1237,Organic,Midwest,3
+1238,Paid Social,Midwest,0
+1239,Organic,Northeast,0
+1240,Paid Search,South,0
+1241,Organic,West,0
+1242,Organic,South,1
+1243,Organic,South,0
+1244,Organic,West,0
+1245,Organic,Midwest,2
+1246,Email,Midwest,0
+1247,Paid Search,West,0
+1248,Paid Search,West,0
+1249,Organic,South,0
+1250,Email,South,1
+1251,Organic,South,0
+1252,Paid Social,West,0
+1253,Paid Search,Midwest,0
+1254,Paid Search,Northeast,0
+1255,Email,West,0
+1256,Paid Social,South,2
+1257,Paid Search,Northeast,0
+1258,Paid Social,South,0
+1259,Paid Search,South,2
+1260,Email,West,0
+1261,Paid Search,Northeast,0
+1262,Organic,West,0
+1263,Paid Social,Midwest,0
+1264,Paid Social,Northeast,0
+1265,Paid Search,West,0
+1266,Paid Search,South,0
+1267,Paid Social,South,0
+1268,Paid Social,South,0
+1269,Email,West,0
+1270,Paid Search,South,0
+1271,Email,Northeast,0
+1272,Organic,Northeast,0
+1273,Organic,South,0
+1274,Paid Search,West,0
+1275,Paid Social,South,0
+1276,Paid Search,Northeast,0
+1277,Paid Search,Northeast,0
+1278,Organic,South,0
+1279,Paid Search,West,5
+1280,Paid Social,South,0
+1281,Email,West,0
+1282,Email,South,0
+1283,Email,Northeast,0
+1284,Paid Search,West,0
+1285,Paid Social,South,0
+1286,Paid Social,Midwest,0
+1287,Paid Search,West,1
+1288,Paid Social,Northeast,1
+1289,Paid Search,Northeast,2
+1290,Paid Search,Midwest,0
+1291,Paid Social,South,0
+1292,Paid Search,Northeast,0
+1293,Email,Northeast,0
+1294,Email,Northeast,0
+1295,Organic,West,3
+1296,Paid Search,Northeast,0
+1297,Paid Search,South,1
+1298,Paid Search,Midwest,0
+1299,Email,South,3
+1300,Email,Northeast,0
+1301,Paid Search,West,0
+1302,Organic,Northeast,0
+1303,Paid Search,West,0
+1304,Paid Social,West,0
+1305,Email,South,0
+1306,Organic,South,0
+1307,Email,South,0
+1308,Organic,South,0
+1309,Paid Social,West,0
+1310,Organic,West,2
+1311,Paid Search,South,0
+1312,Organic,Midwest,0
+1313,Paid Social,West,0
+1314,Organic,West,1
+1315,Paid Social,South,0
+1316,Email,South,2
+1317,Paid Social,South,0
+1318,Email,West,0
+1319,Paid Search,Northeast,2
+1320,Paid Search,Midwest,0
+1321,Paid Search,South,0
+1322,Paid Search,South,0
+1323,Organic,South,3
+1324,Paid Search,West,0
+1325,Organic,Northeast,3
+1326,Paid Social,Midwest,0
+1327,Paid Search,Northeast,1
+1328,Organic,Northeast,0
+1329,Email,South,0
+1330,Paid Social,South,0
+1331,Email,South,0
+1332,Email,South,0
+1333,Paid Search,Northeast,0
+1334,Organic,South,2
+1335,Organic,West,0
+1336,Email,West,0
+1337,Paid Search,South,0
+1338,Email,Midwest,0
+1339,Paid Search,West,0
+1340,Paid Search,Northeast,0
+1341,Paid Search,West,3
+1342,Paid Social,West,0
+1343,Organic,Northeast,1
+1344,Email,Northeast,1
+1345,Email,West,0
+1346,Paid Social,South,0
+1347,Paid Social,Northeast,0
+1348,Paid Social,South,0
+1349,Organic,South,0
+1350,Paid Search,Midwest,0
+1351,Organic,Midwest,0
+1352,Email,West,0
+1353,Paid Social,South,0
+1354,Email,South,0
+1355,Paid Social,South,0
+1356,Organic,South,0
+1357,Organic,Northeast,0
+1358,Paid Social,West,0
+1359,Paid Search,West,1
+1360,Email,South,0
+1361,Organic,Midwest,1
+1362,Paid Search,Northeast,0
+1363,Email,South,0
+1364,Email,Midwest,0
+1365,Email,South,0
+1366,Paid Search,West,0
+1367,Email,Midwest,0
+1368,Organic,South,0
+1369,Paid Search,West,2
+1370,Paid Search,Northeast,0
+1371,Organic,South,0
+1372,Paid Search,South,1
+1373,Organic,South,0
+1374,Paid Social,West,0
+1375,Paid Search,South,0
+1376,Organic,West,0
+1377,Paid Social,Midwest,4
+1378,Paid Social,South,0
+1379,Paid Social,West,2
+1380,Email,Northeast,0
+1381,Paid Search,Northeast,2
+1382,Paid Social,South,0
+1383,Organic,South,0
+1384,Paid Search,Northeast,0
+1385,Email,Midwest,0
+1386,Paid Social,South,1
+1387,Organic,South,0
+1388,Paid Search,West,0
+1389,Organic,Midwest,0
+1390,Paid Social,West,0
+1391,Paid Search,Northeast,2
+1392,Paid Search,Midwest,0
+1393,Paid Search,West,0
+1394,Paid Social,Midwest,0
+1395,Paid Social,Midwest,0
+1396,Organic,South,0
+1397,Paid Social,Northeast,0
+1398,Paid Search,South,0
+1399,Email,South,0
+1400,Email,West,1
+1401,Paid Search,Northeast,0
+1402,Paid Search,West,3
+1403,Paid Search,West,3
+1404,Email,Northeast,0
+1405,Email,South,0
+1406,Paid Social,West,0
+1407,Organic,West,0
+1408,Organic,South,2
+1409,Email,South,0
+1410,Organic,South,4
+1411,Paid Search,Midwest,2
+1412,Paid Search,South,0
+1413,Paid Search,Midwest,1
+1414,Paid Search,Northeast,0
+1415,Paid Social,Northeast,0
+1416,Organic,South,3
+1417,Paid Search,South,0
+1418,Paid Search,South,0
+1419,Paid Social,South,0
+1420,Organic,South,0
+1421,Paid Social,Northeast,0
+1422,Paid Social,South,0
+1423,Paid Search,West,0
+1424,Paid Search,South,0
+1425,Organic,South,0
+1426,Organic,Midwest,0
+1427,Paid Search,West,0
+1428,Organic,Northeast,0
+1429,Email,Midwest,0
+1430,Organic,Midwest,0
+1431,Paid Social,Midwest,0
+1432,Paid Social,Northeast,0
+1433,Paid Social,Midwest,0
+1434,Email,Northeast,0
+1435,Paid Search,Midwest,0
+1436,Paid Search,Midwest,0
+1437,Paid Social,Northeast,0
+1438,Email,West,3
+1439,Paid Search,Northeast,2
+1440,Email,West,0
+1441,Organic,South,0
+1442,Paid Search,Northeast,1
+1443,Email,Northeast,0
+1444,Paid Social,West,0
+1445,Organic,Northeast,3
+1446,Paid Search,Northeast,0
+1447,Email,South,0
+1448,Organic,Midwest,0
+1449,Organic,South,2
+1450,Email,Northeast,0
+1451,Paid Social,South,0
+1452,Email,Northeast,0
+1453,Organic,Northeast,3
+1454,Email,South,2
+1455,Paid Search,Midwest,1
+1456,Organic,Northeast,3
+1457,Email,South,0
+1458,Email,South,0
+1459,Paid Search,West,1
+1460,Email,West,1
+1461,Paid Social,West,1
+1462,Email,Northeast,0
+1463,Paid Search,Northeast,0
+1464,Email,South,0
+1465,Organic,South,1
+1466,Paid Search,South,0
+1467,Organic,West,0
+1468,Paid Social,West,1
+1469,Organic,West,0
+1470,Organic,South,0
+1471,Email,Midwest,0
+1472,Email,South,0
+1473,Organic,Northeast,0
+1474,Paid Social,Midwest,0
+1475,Paid Social,Northeast,3
+1476,Email,South,0
+1477,Organic,South,0
+1478,Organic,Midwest,0
+1479,Organic,West,0
+1480,Paid Social,South,2
+1481,Organic,West,0
+1482,Paid Search,South,0
+1483,Paid Social,South,0
+1484,Paid Search,Midwest,0
+1485,Paid Social,Midwest,3
+1486,Paid Social,West,0
+1487,Paid Social,Northeast,0
+1488,Email,Midwest,0
+1489,Paid Social,Midwest,0
+1490,Paid Social,West,0
+1491,Paid Search,Northeast,2
+1492,Paid Social,West,0
+1493,Paid Search,Midwest,0
+1494,Paid Search,South,0
+1495,Email,South,0
+1496,Email,South,0
+1497,Email,Midwest,2
+1498,Paid Social,West,0
+1499,Paid Social,Midwest,1
+1500,Organic,Midwest,1
+1501,Paid Social,South,1
+1502,Paid Social,Northeast,0
+1503,Paid Search,Northeast,0
+1504,Paid Social,South,0
+1505,Paid Social,South,0
+1506,Paid Social,Northeast,0
+1507,Email,South,0
+1508,Paid Social,South,0
+1509,Email,South,0
+1510,Organic,South,1
+1511,Organic,Northeast,0
+1512,Email,West,0
+1513,Organic,West,0
+1514,Paid Search,Midwest,0
+1515,Paid Search,Northeast,0
+1516,Paid Search,West,0
+1517,Email,West,0
+1518,Organic,West,0
+1519,Paid Search,Northeast,1
+1520,Organic,Midwest,0
+1521,Paid Search,West,0
+1522,Organic,Midwest,0
+1523,Paid Social,Midwest,0
+1524,Paid Search,South,0
+1525,Paid Social,South,0
+1526,Paid Search,Northeast,0
+1527,Paid Search,Midwest,0
+1528,Paid Social,Northeast,1
+1529,Organic,South,0
+1530,Paid Social,South,0
+1531,Paid Social,South,0
+1532,Email,Northeast,0
+1533,Email,Midwest,3
+1534,Paid Search,West,0
+1535,Paid Social,Northeast,2
+1536,Paid Search,Northeast,0
+1537,Paid Search,Northeast,0
+1538,Email,West,1
+1539,Paid Search,South,0
+1540,Paid Social,South,0
+1541,Email,Northeast,0
+1542,Paid Search,Midwest,0
+1543,Email,West,2
+1544,Paid Search,West,0
+1545,Organic,Midwest,0
+1546,Paid Social,Northeast,0
+1547,Organic,Northeast,1
+1548,Email,Northeast,0
+1549,Paid Search,South,1
+1550,Email,Northeast,0
+1551,Organic,South,3
+1552,Email,South,0
+1553,Organic,West,4
+1554,Organic,Midwest,0
+1555,Paid Search,West,1
+1556,Paid Search,Midwest,0
+1557,Email,Northeast,0
+1558,Paid Social,Midwest,0
+1559,Organic,South,0
+1560,Organic,Midwest,0
+1561,Paid Social,South,0
+1562,Paid Search,West,0
+1563,Organic,South,0
+1564,Paid Search,South,0
+1565,Organic,West,1
+1566,Paid Social,Northeast,0
+1567,Email,Midwest,2
+1568,Paid Search,Midwest,1
+1569,Email,West,0
+1570,Paid Social,West,0
+1571,Email,West,0
+1572,Paid Search,Northeast,0
+1573,Email,West,0
+1574,Organic,Midwest,0
+1575,Paid Search,Midwest,0
+1576,Paid Search,Northeast,0
+1577,Paid Search,Midwest,0
+1578,Email,West,0
+1579,Email,West,0
+1580,Paid Social,South,0
+1581,Paid Search,Northeast,0
+1582,Paid Social,South,0
+1583,Email,West,2
+1584,Paid Social,Midwest,0
+1585,Organic,South,0
+1586,Paid Search,Northeast,2
+1587,Email,South,2
+1588,Paid Social,South,1
+1589,Paid Social,West,0
+1590,Email,Midwest,4
+1591,Email,South,0
+1592,Organic,South,0
+1593,Paid Search,Northeast,3
+1594,Paid Search,West,0
+1595,Email,South,0
+1596,Email,South,0
+1597,Paid Search,South,3
+1598,Paid Search,Midwest,0
+1599,Paid Search,Midwest,3
+1600,Organic,Midwest,0
+1601,Paid Search,South,1
+1602,Paid Social,South,0
+1603,Paid Search,Northeast,1
+1604,Paid Social,Midwest,0
+1605,Paid Search,Northeast,0
+1606,Paid Social,Midwest,0
+1607,Paid Search,West,0
+1608,Organic,West,2
+1609,Paid Search,South,2
+1610,Paid Social,South,0
+1611,Organic,Northeast,1
+1612,Email,Midwest,0
+1613,Paid Social,West,2
+1614,Paid Social,Northeast,0
+1615,Paid Social,South,0
+1616,Email,West,1
+1617,Organic,West,0
+1618,Email,Northeast,1
+1619,Email,Midwest,1
+1620,Email,Northeast,0
+1621,Paid Social,Northeast,0
+1622,Paid Search,West,0
+1623,Email,West,0
+1624,Organic,West,0
+1625,Paid Search,Northeast,1
+1626,Email,West,0
+1627,Paid Search,South,0
+1628,Paid Social,South,0
+1629,Paid Search,South,0
+1630,Paid Social,Northeast,1
+1631,Organic,West,0
+1632,Paid Social,Midwest,2
+1633,Email,Northeast,0
+1634,Organic,Northeast,0
+1635,Organic,Northeast,3
+1636,Paid Search,Northeast,3
+1637,Paid Social,Midwest,0
+1638,Paid Search,West,0
+1639,Organic,Northeast,3
+1640,Organic,Northeast,0
+1641,Paid Social,Midwest,1
+1642,Organic,West,0
+1643,Paid Social,South,1
+1644,Email,South,0
+1645,Paid Search,Midwest,1
+1646,Organic,South,2
+1647,Paid Search,Northeast,1
+1648,Organic,Midwest,0
+1649,Organic,Midwest,0
+1650,Email,Midwest,0
+1651,Paid Search,Midwest,1
+1652,Paid Social,Midwest,0
+1653,Paid Search,Northeast,0
+1654,Paid Social,South,0
+1655,Paid Search,Northeast,0
+1656,Organic,Northeast,0
+1657,Email,Midwest,0
+1658,Paid Social,West,0
+1659,Paid Social,West,0
+1660,Paid Social,Midwest,0
+1661,Email,Northeast,2
+1662,Paid Social,Northeast,2
+1663,Organic,West,0
+1664,Paid Social,Midwest,0
+1665,Organic,Midwest,0
+1666,Organic,West,0
+1667,Paid Search,Midwest,0
+1668,Organic,West,0
+1669,Paid Search,Northeast,0
+1670,Organic,Midwest,0
+1671,Paid Social,West,0
+1672,Organic,South,0
+1673,Organic,Midwest,0
+1674,Organic,South,0
+1675,Organic,West,0
+1676,Paid Social,Northeast,0
+1677,Paid Search,Midwest,0
+1678,Paid Social,Northeast,0
+1679,Paid Search,Midwest,0
+1680,Email,Northeast,0
+1681,Paid Social,Northeast,0
+1682,Organic,South,3
+1683,Email,West,1
+1684,Organic,Northeast,0
+1685,Paid Search,Northeast,0
+1686,Organic,West,0
+1687,Organic,South,0
+1688,Paid Social,West,2
+1689,Email,Northeast,2
+1690,Organic,Midwest,0
+1691,Paid Search,Northeast,0
+1692,Paid Social,Northeast,0
+1693,Paid Social,Midwest,0
+1694,Paid Search,Midwest,0
+1695,Paid Social,West,2
+1696,Paid Search,South,0
+1697,Paid Search,South,0
+1698,Paid Search,South,0
+1699,Organic,West,0
+1700,Paid Social,South,0
+1701,Organic,South,0
+1702,Paid Social,South,0
+1703,Paid Social,Midwest,0
+1704,Paid Social,South,0
+1705,Paid Social,West,0
+1706,Paid Search,South,0
+1707,Email,West,0
+1708,Paid Search,Northeast,0
+1709,Email,Midwest,0
+1710,Email,West,3
+1711,Paid Search,Northeast,0
+1712,Paid Search,West,0
+1713,Organic,South,0
+1714,Paid Social,West,0
+1715,Paid Search,Midwest,0
+1716,Organic,South,1
+1717,Paid Search,Northeast,0
+1718,Email,South,2
+1719,Organic,Northeast,0
+1720,Paid Search,Northeast,0
+1721,Paid Search,Northeast,0
+1722,Paid Search,South,0
+1723,Paid Social,West,0
+1724,Paid Search,Northeast,0
+1725,Email,Northeast,0
+1726,Paid Search,Midwest,0
+1727,Paid Social,Northeast,0
+1728,Organic,Northeast,0
+1729,Organic,Northeast,0
+1730,Email,West,0
+1731,Paid Social,West,0
+1732,Email,South,0
+1733,Paid Social,Midwest,0
+1734,Paid Social,South,0
+1735,Paid Search,Midwest,0
+1736,Organic,Midwest,4
+1737,Paid Social,Midwest,0
+1738,Paid Search,South,0
+1739,Paid Social,Northeast,1
+1740,Paid Social,South,0
+1741,Organic,West,0
+1742,Email,Midwest,3
+1743,Organic,West,0
+1744,Paid Search,West,0
+1745,Paid Social,Northeast,0
+1746,Paid Social,Midwest,0
+1747,Paid Search,Midwest,3
+1748,Paid Search,West,3
+1749,Organic,West,0
+1750,Paid Search,Midwest,0
+1751,Paid Social,Northeast,0
+1752,Paid Search,West,0
+1753,Paid Search,Northeast,0
+1754,Paid Search,West,2
+1755,Organic,West,3
+1756,Organic,South,0
+1757,Organic,Midwest,0
+1758,Paid Social,South,0
+1759,Paid Search,South,0
+1760,Paid Social,South,0
+1761,Paid Social,West,2
+1762,Organic,West,2
+1763,Paid Search,West,0
+1764,Paid Social,Northeast,0
+1765,Paid Search,West,0
+1766,Paid Social,Midwest,0
+1767,Email,South,0
+1768,Paid Social,Northeast,0
+1769,Paid Social,South,0
+1770,Paid Social,West,0
+1771,Paid Social,Midwest,0
+1772,Organic,Midwest,0
+1773,Organic,South,0
+1774,Organic,Midwest,1
+1775,Organic,Northeast,0
+1776,Paid Social,South,2
+1777,Email,Midwest,2
+1778,Paid Social,Northeast,0
+1779,Paid Search,West,0
+1780,Organic,Northeast,0
+1781,Paid Search,Midwest,0
+1782,Organic,South,0
+1783,Paid Social,Midwest,0
+1784,Email,Northeast,0
+1785,Email,Northeast,0
+1786,Organic,West,3
+1787,Email,South,0
+1788,Email,West,0
+1789,Paid Search,West,0
+1790,Paid Social,Northeast,0
+1791,Paid Search,South,0
+1792,Email,Midwest,0
+1793,Paid Social,West,1
+1794,Email,West,2
+1795,Paid Search,South,0
+1796,Paid Search,West,0
+1797,Email,Northeast,0
+1798,Paid Search,West,0
+1799,Paid Search,West,0
+1800,Paid Search,Northeast,0
+1801,Organic,South,0
+1802,Email,Northeast,0
+1803,Paid Social,South,0
+1804,Paid Search,West,1
+1805,Paid Social,South,0
+1806,Organic,Northeast,0
+1807,Email,South,0
+1808,Paid Search,West,0
+1809,Paid Search,Midwest,0
+1810,Paid Search,South,0
+1811,Email,Northeast,0
+1812,Organic,West,0
+1813,Paid Search,West,0
+1814,Paid Search,South,0
+1815,Paid Search,Northeast,2
+1816,Organic,Northeast,0
+1817,Paid Search,Northeast,0
+1818,Organic,Midwest,0
+1819,Email,West,0
+1820,Paid Social,South,0
+1821,Paid Search,West,0
+1822,Paid Search,South,0
+1823,Email,Midwest,0
+1824,Organic,Midwest,0
+1825,Email,Northeast,0
+1826,Paid Social,South,0
+1827,Paid Search,Midwest,2
+1828,Organic,Northeast,0
+1829,Organic,South,0
+1830,Paid Search,South,0
+1831,Organic,West,1
+1832,Email,South,2
+1833,Email,West,0
+1834,Email,South,0
+1835,Organic,West,0
+1836,Email,Midwest,0
+1837,Paid Search,West,1
+1838,Paid Social,South,1
+1839,Organic,Midwest,0
+1840,Paid Search,Midwest,0
+1841,Paid Social,South,1
+1842,Paid Social,Northeast,0
+1843,Paid Social,Northeast,2
+1844,Email,Northeast,0
+1845,Organic,West,2
+1846,Paid Search,Northeast,0
+1847,Paid Search,Northeast,0
+1848,Paid Search,Midwest,0
+1849,Organic,South,0
+1850,Email,South,2
+1851,Paid Search,Northeast,0
+1852,Organic,West,2
+1853,Organic,West,0
+1854,Organic,West,0
+1855,Organic,South,0
+1856,Paid Search,West,4
+1857,Organic,Northeast,0
+1858,Paid Social,Northeast,3
+1859,Organic,Northeast,0
+1860,Email,Midwest,0
+1861,Organic,South,0
+1862,Email,South,0
+1863,Paid Search,Northeast,0
+1864,Paid Social,South,0
+1865,Organic,Midwest,0
+1866,Organic,South,2
+1867,Paid Search,Midwest,1
+1868,Paid Search,Northeast,0
+1869,Paid Search,West,0
+1870,Email,Midwest,0
+1871,Organic,Northeast,0
+1872,Paid Search,Northeast,0
+1873,Paid Social,Midwest,0
+1874,Organic,West,0
+1875,Email,South,0
+1876,Paid Social,South,0
+1877,Email,West,0
+1878,Paid Social,Midwest,0
+1879,Paid Search,South,0
+1880,Email,South,0
+1881,Email,Northeast,0
+1882,Organic,Midwest,0
+1883,Email,South,0
+1884,Organic,West,2
+1885,Paid Search,South,0
+1886,Paid Social,South,0
+1887,Paid Search,Midwest,0
+1888,Paid Search,West,0
+1889,Email,West,0
+1890,Organic,South,0
+1891,Paid Search,Midwest,0
+1892,Paid Social,Midwest,0
+1893,Organic,South,0
+1894,Paid Search,Northeast,0
+1895,Email,South,0
+1896,Email,Northeast,0
+1897,Email,West,1
+1898,Paid Search,South,2
+1899,Paid Social,West,1
+1900,Organic,South,0
+1901,Email,Midwest,0
+1902,Paid Search,South,0
+1903,Organic,Northeast,3
+1904,Paid Search,South,0
+1905,Email,Northeast,0
+1906,Paid Search,Midwest,1
+1907,Organic,South,0
+1908,Paid Social,West,0
+1909,Paid Social,Northeast,0
+1910,Paid Search,Northeast,0
+1911,Paid Social,South,1
+1912,Organic,West,0
+1913,Organic,Midwest,0
+1914,Paid Social,South,4
+1915,Paid Social,South,0
+1916,Email,Northeast,0
+1917,Organic,West,0
+1918,Email,Midwest,0
+1919,Paid Social,South,0
+1920,Paid Social,Midwest,0
+1921,Email,Northeast,0
+1922,Paid Search,West,0
+1923,Email,Northeast,0
+1924,Paid Social,Midwest,0
+1925,Organic,Northeast,3
+1926,Paid Search,Midwest,0
+1927,Email,West,0
+1928,Paid Social,Midwest,0
+1929,Email,Midwest,1
+1930,Paid Search,West,0
+1931,Email,Northeast,0
+1932,Email,South,3
+1933,Email,Northeast,0
+1934,Email,West,0
+1935,Email,South,0
+1936,Organic,Midwest,3
+1937,Paid Search,Midwest,2
+1938,Organic,Northeast,0
+1939,Paid Social,Northeast,0
+1940,Paid Search,South,0
+1941,Paid Search,South,0
+1942,Paid Social,Northeast,0
+1943,Organic,Northeast,0
+1944,Email,West,0
+1945,Organic,West,1
+1946,Paid Social,South,0
+1947,Paid Social,South,1
+1948,Paid Search,Northeast,0
+1949,Paid Social,Midwest,0
+1950,Paid Social,West,1
+1951,Paid Search,Northeast,0
+1952,Paid Search,Northeast,6
+1953,Email,West,2
+1954,Email,Midwest,2
+1955,Organic,Northeast,0
+1956,Organic,Midwest,2
+1957,Email,South,0
+1958,Paid Social,South,0
+1959,Email,West,0
+1960,Organic,West,0
+1961,Paid Search,South,0
+1962,Paid Social,West,1
+1963,Organic,South,0
+1964,Paid Social,West,0
+1965,Email,South,0
+1966,Email,West,0
+1967,Paid Search,West,0
+1968,Paid Social,Northeast,1
+1969,Paid Social,West,0
+1970,Paid Search,West,0
+1971,Paid Search,West,0
+1972,Organic,Northeast,0
+1973,Paid Search,West,0
+1974,Paid Social,West,0
+1975,Paid Search,South,0
+1976,Organic,West,0
+1977,Paid Search,Northeast,0
+1978,Paid Social,Northeast,1
+1979,Organic,South,0
+1980,Organic,Midwest,0
+1981,Paid Search,Midwest,0
+1982,Organic,Northeast,0
+1983,Paid Social,West,0
+1984,Paid Social,Northeast,0
+1985,Paid Search,Northeast,1
+1986,Paid Search,Northeast,0
+1987,Email,Midwest,2
+1988,Paid Social,West,0
+1989,Paid Social,Midwest,1
+1990,Email,West,0
+1991,Organic,Northeast,0
+1992,Paid Search,South,0
+1993,Email,South,0
+1994,Paid Search,South,0
+1995,Organic,Northeast,0
+1996,Email,Midwest,0
+1997,Organic,South,0
+1998,Paid Search,West,0
+1999,Paid Search,South,0
+2000,Paid Search,Northeast,0
+2001,Paid Search,Midwest,2
+2002,Paid Search,Northeast,0
+2003,Organic,West,0
+2004,Paid Search,Midwest,1
+2005,Paid Search,Northeast,0
+2006,Organic,West,0
+2007,Paid Social,South,0
+2008,Organic,Northeast,0
+2009,Paid Search,Midwest,0
+2010,Paid Social,South,0
+2011,Paid Search,West,0
+2012,Paid Search,West,0
+2013,Organic,West,0
+2014,Paid Search,South,0
+2015,Paid Social,South,0
+2016,Paid Social,West,0
+2017,Paid Social,Northeast,0
+2018,Organic,South,0
+2019,Paid Search,South,0
+2020,Email,Northeast,0
+2021,Organic,South,0
+2022,Email,West,0
+2023,Organic,West,1
+2024,Paid Search,Northeast,0
+2025,Paid Social,Northeast,0
+2026,Paid Search,South,0
+2027,Email,West,0
+2028,Organic,Northeast,0
+2029,Paid Search,Midwest,1
+2030,Email,Northeast,0
+2031,Paid Search,Midwest,1
+2032,Email,South,0
+2033,Paid Social,West,0
+2034,Organic,Northeast,2
+2035,Email,Midwest,0
+2036,Paid Social,Northeast,0
+2037,Paid Search,Midwest,0
+2038,Paid Search,West,0
+2039,Paid Search,Northeast,0
+2040,Paid Search,West,0
+2041,Organic,Midwest,0
+2042,Email,Northeast,0
+2043,Paid Social,South,2
+2044,Paid Search,Northeast,0
+2045,Organic,Midwest,1
+2046,Email,West,2
+2047,Paid Search,Northeast,1
+2048,Email,South,0
+2049,Paid Social,West,1
+2050,Paid Search,West,0
+2051,Paid Social,South,0
+2052,Paid Social,West,0
+2053,Paid Search,South,0
+2054,Organic,South,0
+2055,Organic,West,0
+2056,Email,South,0
+2057,Paid Social,South,0
+2058,Paid Social,South,0
+2059,Email,West,0
+2060,Paid Social,West,0
+2061,Paid Search,South,0
+2062,Paid Social,South,1
+2063,Organic,South,0
+2064,Paid Social,Midwest,0
+2065,Paid Search,Northeast,0
+2066,Organic,West,0
+2067,Paid Search,South,0
+2068,Paid Search,South,3
+2069,Paid Search,Northeast,0
+2070,Paid Social,Northeast,0
+2071,Organic,West,0
+2072,Paid Social,South,0
+2073,Paid Search,Northeast,1
+2074,Organic,South,0
+2075,Organic,South,0
+2076,Organic,Northeast,0
+2077,Paid Search,South,0
+2078,Paid Social,South,0
+2079,Organic,Midwest,0
+2080,Organic,South,0
+2081,Paid Search,South,0
+2082,Paid Search,West,0
+2083,Paid Social,South,1
+2084,Organic,South,0
+2085,Paid Social,Northeast,2
+2086,Paid Social,South,0
+2087,Paid Search,West,0
+2088,Email,Northeast,0
+2089,Organic,Midwest,0
+2090,Paid Social,Northeast,1
+2091,Organic,South,0
+2092,Organic,West,0
+2093,Paid Search,South,0
+2094,Paid Social,Midwest,0
+2095,Paid Search,Northeast,0
+2096,Organic,Midwest,0
+2097,Email,Northeast,0
+2098,Email,West,0
+2099,Organic,Northeast,0
+2100,Paid Social,West,1
+2101,Organic,South,0
+2102,Paid Social,Midwest,0
+2103,Paid Search,South,1
+2104,Email,West,0
+2105,Organic,Northeast,0
+2106,Paid Social,Northeast,0
+2107,Organic,South,0
+2108,Organic,Northeast,0
+2109,Paid Search,Northeast,0
+2110,Organic,West,0
+2111,Paid Search,West,0
+2112,Paid Search,South,3
+2113,Paid Search,West,5
+2114,Organic,South,0
+2115,Email,South,0
+2116,Paid Search,Midwest,0
+2117,Paid Social,Midwest,0
+2118,Email,West,0
+2119,Paid Search,South,0
+2120,Organic,Midwest,0
+2121,Organic,Northeast,0
+2122,Paid Social,Northeast,4
+2123,Organic,Northeast,1
+2124,Paid Social,West,0
+2125,Organic,West,1
+2126,Email,West,0
+2127,Email,South,0
+2128,Paid Search,South,0
+2129,Organic,Northeast,0
+2130,Paid Social,South,0
+2131,Paid Search,South,0
+2132,Paid Search,West,1
+2133,Email,South,0
+2134,Paid Social,Northeast,0
+2135,Email,Northeast,0
+2136,Organic,Northeast,0
+2137,Paid Search,South,0
+2138,Email,West,0
+2139,Paid Search,Midwest,0
+2140,Organic,West,0
+2141,Organic,South,0
+2142,Paid Social,South,0
+2143,Email,Northeast,0
+2144,Paid Social,West,0
+2145,Paid Social,West,0
+2146,Organic,Northeast,0
+2147,Paid Social,South,1
+2148,Paid Social,South,0
+2149,Paid Social,Midwest,0
+2150,Organic,West,0
+2151,Paid Social,Midwest,0
+2152,Paid Search,South,0
+2153,Email,Northeast,1
+2154,Organic,Northeast,1
+2155,Paid Search,Northeast,0
+2156,Paid Search,Northeast,0
+2157,Paid Search,Midwest,0
+2158,Paid Social,Midwest,1
+2159,Paid Social,Northeast,4
+2160,Email,West,0
+2161,Email,Northeast,0
+2162,Email,South,0
+2163,Paid Social,Northeast,0
+2164,Organic,South,0
+2165,Paid Social,South,0
+2166,Organic,South,0
+2167,Email,South,0
+2168,Paid Search,West,2
+2169,Email,Northeast,0
+2170,Paid Social,Northeast,0
+2171,Email,Northeast,3
+2172,Paid Search,Midwest,4
+2173,Paid Search,Northeast,0
+2174,Organic,West,0
+2175,Paid Search,South,2
+2176,Organic,South,0
+2177,Paid Search,Midwest,0
+2178,Email,Northeast,0
+2179,Email,Northeast,0
+2180,Paid Social,South,0
+2181,Paid Social,Midwest,0
+2182,Paid Search,Northeast,0
+2183,Paid Search,Northeast,0
+2184,Paid Social,West,0
+2185,Email,Northeast,0
+2186,Organic,West,0
+2187,Organic,West,0
+2188,Organic,South,0
+2189,Organic,Northeast,0
+2190,Email,Northeast,2
+2191,Paid Search,Midwest,5
+2192,Organic,Midwest,0
+2193,Email,West,0
+2194,Email,West,0
+2195,Paid Search,Midwest,3
+2196,Paid Social,Northeast,2
+2197,Paid Social,Northeast,1
+2198,Organic,West,0
+2199,Paid Social,Northeast,0
+2200,Paid Social,Northeast,2
+2201,Organic,Midwest,0
+2202,Paid Search,South,0
+2203,Paid Social,West,1
+2204,Paid Search,Midwest,2
+2205,Email,Northeast,0
+2206,Organic,West,0
+2207,Paid Search,South,0
+2208,Organic,South,0
+2209,Paid Search,South,0
+2210,Organic,Northeast,0
+2211,Organic,South,0
+2212,Organic,Northeast,2
+2213,Paid Search,South,1
+2214,Organic,South,3
+2215,Email,West,0
+2216,Paid Social,West,2
+2217,Organic,Northeast,0
+2218,Paid Search,South,0
+2219,Organic,South,0
+2220,Paid Search,Northeast,0
+2221,Email,West,0
+2222,Paid Social,Midwest,0
+2223,Paid Search,Northeast,0
+2224,Paid Search,South,0
+2225,Paid Search,Northeast,3
+2226,Paid Social,Midwest,0
+2227,Paid Social,Northeast,0
+2228,Email,West,2
+2229,Paid Search,West,0
+2230,Paid Search,South,0
+2231,Email,Midwest,0
+2232,Paid Search,West,0
+2233,Organic,Midwest,0
+2234,Organic,Northeast,0
+2235,Email,South,0
+2236,Email,West,0
+2237,Organic,Midwest,0
+2238,Paid Search,Midwest,3
+2239,Paid Search,West,0
+2240,Paid Search,West,0
+2241,Organic,West,2
+2242,Paid Search,Northeast,0
+2243,Email,South,1
+2244,Organic,Midwest,0
+2245,Organic,West,1
+2246,Paid Social,Midwest,0
+2247,Paid Search,Northeast,0
+2248,Organic,West,0
+2249,Email,Midwest,0
+2250,Paid Search,Northeast,0
+2251,Paid Search,South,0
+2252,Organic,Northeast,0
+2253,Email,South,0
+2254,Organic,Northeast,0
+2255,Organic,South,0
+2256,Email,South,1
+2257,Paid Social,Midwest,0
+2258,Paid Social,Midwest,0
+2259,Paid Social,West,0
+2260,Paid Social,Northeast,0
+2261,Organic,Northeast,0
+2262,Email,West,0
+2263,Organic,Northeast,0
+2264,Paid Social,West,1
+2265,Email,West,0
+2266,Email,South,0
+2267,Email,West,0
+2268,Email,Northeast,1
+2269,Paid Search,South,0
+2270,Paid Social,Midwest,1
+2271,Paid Search,South,1
+2272,Paid Social,West,0
+2273,Paid Social,Northeast,0
+2274,Email,South,0
+2275,Organic,Midwest,0
+2276,Email,Midwest,2
+2277,Email,South,0
+2278,Paid Social,South,0
+2279,Email,West,0
+2280,Paid Search,Northeast,0
+2281,Paid Search,West,0
+2282,Paid Social,Midwest,0
+2283,Paid Social,West,0
+2284,Paid Search,Midwest,0
+2285,Paid Search,Northeast,0
+2286,Paid Search,Midwest,3
+2287,Organic,West,2
+2288,Paid Social,South,0
+2289,Paid Social,West,2
+2290,Paid Search,South,0
+2291,Email,Northeast,0
+2292,Paid Search,South,0
+2293,Paid Search,West,3
+2294,Paid Social,South,0
+2295,Paid Search,West,0
+2296,Paid Search,West,0
+2297,Paid Search,South,0
+2298,Paid Search,Northeast,1
+2299,Paid Search,Midwest,0
+2300,Paid Social,South,0
+2301,Organic,West,0
+2302,Email,South,0
+2303,Paid Social,South,0
+2304,Paid Search,West,1
+2305,Organic,South,0
+2306,Paid Social,South,0
+2307,Paid Search,South,0
+2308,Email,South,0
+2309,Paid Search,South,0
+2310,Paid Social,West,2
+2311,Paid Social,South,0
+2312,Organic,South,0
+2313,Paid Social,Midwest,0
+2314,Email,South,0
+2315,Organic,South,1
+2316,Paid Search,West,0
+2317,Paid Search,Midwest,1
+2318,Paid Social,Midwest,0
+2319,Paid Social,Midwest,0
+2320,Paid Social,Northeast,1
+2321,Organic,Midwest,0
+2322,Email,South,0
+2323,Email,South,0
+2324,Paid Social,South,2
+2325,Organic,Northeast,0
+2326,Organic,Northeast,1
+2327,Organic,West,0
+2328,Paid Search,South,0
+2329,Email,South,0
+2330,Paid Search,Northeast,0
+2331,Paid Search,Northeast,1
+2332,Paid Search,Midwest,0
+2333,Email,South,2
+2334,Email,South,0
+2335,Paid Search,Northeast,1
+2336,Paid Social,Midwest,0
+2337,Paid Social,Northeast,1
+2338,Paid Social,Northeast,0
+2339,Paid Search,South,0
+2340,Paid Social,South,0
+2341,Organic,Northeast,0
+2342,Paid Search,Midwest,3
+2343,Paid Search,Midwest,0
+2344,Paid Social,West,2
+2345,Organic,South,0
+2346,Email,Northeast,0
+2347,Email,South,0
+2348,Paid Social,West,0
+2349,Email,Midwest,0
+2350,Paid Search,Midwest,1
+2351,Email,Northeast,1
+2352,Organic,South,0
+2353,Email,Northeast,1
+2354,Organic,Midwest,2
+2355,Email,West,0
+2356,Paid Search,West,0
+2357,Organic,South,0
+2358,Paid Search,South,2
+2359,Paid Social,West,0
+2360,Paid Search,Midwest,0
+2361,Paid Search,Northeast,0
+2362,Paid Social,South,0
+2363,Paid Search,Northeast,0
+2364,Paid Social,South,2
+2365,Email,South,0
+2366,Paid Search,Midwest,1
+2367,Paid Search,South,0
+2368,Email,Northeast,2
+2369,Paid Social,South,0
+2370,Email,West,0
+2371,Email,Midwest,0
+2372,Organic,South,0
+2373,Email,West,0
+2374,Paid Social,West,0
+2375,Email,Northeast,0
+2376,Paid Search,Northeast,4
+2377,Paid Social,Midwest,3
+2378,Organic,West,0
+2379,Paid Social,West,1
+2380,Organic,West,0
+2381,Organic,Midwest,0
+2382,Organic,South,0
+2383,Organic,Northeast,0
+2384,Paid Social,Northeast,0
+2385,Paid Social,South,0
+2386,Email,Midwest,0
+2387,Paid Social,Midwest,0
+2388,Email,Midwest,0
+2389,Email,South,0
+2390,Email,Midwest,0
+2391,Paid Social,Northeast,0
+2392,Paid Search,South,0
+2393,Paid Social,West,0
+2394,Paid Search,Midwest,0
+2395,Organic,West,0
+2396,Paid Social,South,0
+2397,Paid Search,South,2
+2398,Paid Search,South,0
+2399,Email,South,0
+2400,Email,West,0
+2401,Paid Social,Midwest,0
+2402,Paid Search,West,2
+2403,Paid Social,Northeast,0
+2404,Paid Social,West,0
+2405,Email,Northeast,0
+2406,Email,West,0
+2407,Paid Social,South,1
+2408,Paid Search,South,0
+2409,Organic,South,0
+2410,Paid Social,West,0
+2411,Email,Northeast,0
+2412,Paid Search,South,0
+2413,Paid Social,West,0
+2414,Paid Search,South,0
+2415,Paid Social,Northeast,0
+2416,Organic,South,0
+2417,Paid Social,South,0
+2418,Paid Search,West,1
+2419,Paid Search,West,0
+2420,Paid Social,South,2
+2421,Paid Search,West,0
+2422,Paid Search,South,1
+2423,Organic,Northeast,3
+2424,Paid Social,South,0
+2425,Paid Search,South,0
+2426,Organic,Northeast,1
+2427,Paid Search,West,0
+2428,Organic,West,1
+2429,Paid Social,South,0
+2430,Organic,Midwest,2
+2431,Email,Midwest,2
+2432,Organic,West,0
+2433,Organic,West,0
+2434,Paid Search,South,0
+2435,Organic,West,0
+2436,Paid Social,Midwest,0
+2437,Paid Social,Midwest,0
+2438,Paid Social,Northeast,0
+2439,Paid Social,Northeast,0
+2440,Paid Search,South,0
+2441,Email,South,0
+2442,Paid Social,Northeast,0
+2443,Organic,Midwest,0
+2444,Organic,Northeast,0
+2445,Paid Social,Midwest,0
+2446,Paid Social,South,0
+2447,Paid Search,West,0
+2448,Paid Search,South,0
+2449,Paid Search,Northeast,0
+2450,Paid Social,Midwest,0
+2451,Paid Search,West,1
+2452,Organic,West,0
+2453,Email,South,1
+2454,Paid Social,South,1
+2455,Email,West,0
+2456,Paid Search,Northeast,0
+2457,Paid Social,Midwest,0
+2458,Email,South,3
+2459,Paid Social,Northeast,0
+2460,Paid Social,South,1
+2461,Organic,South,0
+2462,Organic,Midwest,0
+2463,Email,West,0
+2464,Email,South,0
+2465,Email,West,2
+2466,Paid Search,Northeast,0
+2467,Paid Social,South,0
+2468,Paid Search,Northeast,0
+2469,Paid Social,West,3
+2470,Paid Social,West,1
+2471,Paid Search,Midwest,0
+2472,Organic,West,0
+2473,Organic,Midwest,0
+2474,Email,West,0
+2475,Paid Social,Midwest,0
+2476,Organic,West,2
+2477,Paid Search,South,0
+2478,Organic,Northeast,2
+2479,Paid Search,South,0
+2480,Organic,Northeast,0
+2481,Paid Search,Midwest,0
+2482,Organic,South,0
+2483,Organic,Midwest,0
+2484,Paid Search,Northeast,0
+2485,Paid Social,Northeast,0
+2486,Organic,South,0
+2487,Paid Social,West,0
+2488,Organic,South,0
+2489,Email,South,1
+2490,Paid Social,Midwest,0
+2491,Paid Search,Midwest,2
+2492,Paid Search,South,0
+2493,Organic,South,3
+2494,Paid Social,Northeast,0
+2495,Paid Social,West,0
+2496,Paid Social,Northeast,0
+2497,Email,South,0
+2498,Organic,Northeast,0
+2499,Organic,Northeast,0
+2500,Paid Social,West,2
+2501,Organic,Northeast,0
+2502,Organic,Northeast,0
+2503,Email,South,0
+2504,Organic,Northeast,0
+2505,Paid Search,Northeast,1
+2506,Paid Search,West,3
+2507,Organic,West,2
+2508,Paid Social,West,3
+2509,Organic,West,0
+2510,Organic,Midwest,0
+2511,Paid Search,Northeast,0
+2512,Organic,West,0
+2513,Paid Social,West,0
+2514,Paid Social,West,0
+2515,Email,South,0
+2516,Organic,Northeast,0
+2517,Paid Search,West,0
+2518,Paid Social,Midwest,0
+2519,Email,West,0
+2520,Email,Northeast,0
+2521,Email,Northeast,0
+2522,Paid Search,Northeast,0
+2523,Paid Search,West,0
+2524,Paid Social,Northeast,0
+2525,Organic,Northeast,0
+2526,Paid Search,West,0
+2527,Paid Search,Northeast,0
+2528,Organic,West,1
+2529,Paid Search,South,0
+2530,Organic,West,0
+2531,Email,Midwest,0
+2532,Organic,West,0
+2533,Paid Search,West,0
+2534,Paid Search,Northeast,0
+2535,Email,Northeast,0
+2536,Organic,South,0
+2537,Email,Midwest,0
+2538,Paid Search,West,0
+2539,Organic,South,0
+2540,Organic,Midwest,0
+2541,Email,Northeast,0
+2542,Organic,West,0
+2543,Organic,West,0
+2544,Email,South,1
+2545,Paid Search,South,2
+2546,Paid Social,Northeast,0
+2547,Paid Search,Midwest,0
+2548,Paid Social,South,0
+2549,Paid Social,Northeast,0
+2550,Paid Search,South,0
+2551,Paid Social,South,0
+2552,Paid Search,South,0
+2553,Organic,Midwest,0
+2554,Organic,Northeast,0
+2555,Paid Search,West,1
+2556,Organic,Midwest,2
+2557,Paid Social,South,0
+2558,Paid Search,Northeast,0
+2559,Paid Search,West,0
+2560,Paid Social,West,0
+2561,Organic,Northeast,0
+2562,Email,South,0
+2563,Paid Search,Northeast,0
+2564,Paid Search,Midwest,0
+2565,Paid Social,Northeast,0
+2566,Paid Search,South,0
+2567,Paid Search,Midwest,0
+2568,Paid Search,Midwest,3
+2569,Organic,South,2
+2570,Organic,South,0
+2571,Paid Social,Midwest,0
+2572,Organic,Northeast,0
+2573,Paid Social,Northeast,0
+2574,Paid Social,West,0
+2575,Paid Search,Northeast,0
+2576,Email,Midwest,0
+2577,Organic,West,2
+2578,Email,South,0
+2579,Paid Social,South,0
+2580,Email,Midwest,0
+2581,Paid Search,West,0
+2582,Organic,West,0
+2583,Paid Social,Midwest,0
+2584,Paid Social,Northeast,0
+2585,Email,Midwest,0
+2586,Email,South,0
+2587,Paid Search,South,3
+2588,Email,Northeast,1
+2589,Paid Search,Northeast,0
+2590,Email,West,0
+2591,Organic,South,0
+2592,Organic,South,0
+2593,Email,South,0
+2594,Paid Social,West,0
+2595,Paid Search,Midwest,0
+2596,Organic,South,0
+2597,Paid Search,Northeast,0
+2598,Paid Social,South,0
+2599,Paid Search,West,2
+2600,Paid Search,Midwest,1
+2601,Email,South,3
+2602,Paid Search,Midwest,0
+2603,Email,South,0
+2604,Paid Social,West,0
+2605,Paid Search,South,0
+2606,Paid Social,Northeast,0
+2607,Paid Search,Northeast,0
+2608,Paid Search,South,0
+2609,Email,West,0
+2610,Paid Search,South,0
+2611,Organic,West,1
+2612,Paid Search,West,0
+2613,Paid Search,Northeast,0
+2614,Email,Northeast,0
+2615,Paid Social,Northeast,0
+2616,Paid Search,Midwest,0
+2617,Paid Social,Northeast,0
+2618,Paid Search,South,1
+2619,Organic,South,0
+2620,Paid Social,Midwest,2
+2621,Organic,Northeast,0
+2622,Organic,South,0
+2623,Paid Social,South,1
+2624,Organic,South,1
+2625,Paid Social,West,3
+2626,Organic,Northeast,0
+2627,Paid Search,West,0
+2628,Email,Midwest,0
+2629,Paid Social,Midwest,0
+2630,Paid Social,Midwest,3
+2631,Email,South,0
+2632,Email,Northeast,0
+2633,Paid Search,Midwest,3
+2634,Paid Search,South,2
+2635,Email,Midwest,0
+2636,Email,South,0
+2637,Organic,West,0
+2638,Organic,Midwest,0
+2639,Organic,Northeast,3
+2640,Email,South,0
+2641,Paid Search,West,1
+2642,Paid Search,West,0
+2643,Organic,South,0
+2644,Email,West,0
+2645,Paid Search,South,1
+2646,Paid Social,South,2
+2647,Organic,West,2
+2648,Paid Social,West,0
+2649,Paid Social,Midwest,3
+2650,Paid Social,West,0
+2651,Paid Search,Northeast,5
+2652,Paid Social,West,0
+2653,Paid Social,South,2
+2654,Paid Search,Northeast,2
+2655,Organic,Northeast,0
+2656,Paid Social,South,0
+2657,Organic,South,0
+2658,Organic,South,1
+2659,Paid Search,Northeast,0
+2660,Email,South,0
+2661,Paid Social,Midwest,2
+2662,Organic,South,0
+2663,Paid Search,South,2
+2664,Email,Midwest,0
+2665,Email,West,3
+2666,Paid Search,West,1
+2667,Paid Search,South,0
+2668,Email,Midwest,0
+2669,Email,Northeast,0
+2670,Paid Social,Northeast,0
+2671,Email,South,0
+2672,Paid Social,West,0
+2673,Email,Northeast,3
+2674,Paid Search,Northeast,0
+2675,Organic,Northeast,0
+2676,Paid Search,West,0
+2677,Paid Social,Midwest,0
+2678,Paid Search,South,0
+2679,Paid Search,Midwest,0
+2680,Paid Social,South,0
+2681,Paid Search,Midwest,0
+2682,Organic,Northeast,0
+2683,Paid Search,West,0
+2684,Paid Social,South,0
+2685,Paid Social,Midwest,0
+2686,Paid Search,Northeast,1
+2687,Paid Search,South,0
+2688,Paid Social,South,0
+2689,Paid Social,South,0
+2690,Paid Social,Northeast,0
+2691,Paid Social,West,1
+2692,Email,Northeast,0
+2693,Paid Search,Midwest,0
+2694,Paid Social,West,0
+2695,Organic,Midwest,0
+2696,Paid Social,Midwest,0
+2697,Email,Midwest,0
+2698,Paid Social,South,0
+2699,Organic,West,2
+2700,Organic,South,0
+2701,Paid Social,Midwest,0
+2702,Organic,Midwest,0
+2703,Paid Search,South,0
+2704,Paid Search,South,3
+2705,Organic,South,2
+2706,Organic,West,0
+2707,Paid Search,West,1
+2708,Paid Search,South,0
+2709,Paid Search,Midwest,0
+2710,Paid Search,West,0
+2711,Organic,Northeast,0
+2712,Paid Social,Northeast,0
+2713,Paid Social,Midwest,0
+2714,Paid Social,West,0
+2715,Paid Search,West,0
+2716,Paid Search,South,2
+2717,Email,Northeast,0
+2718,Organic,South,0
+2719,Organic,Northeast,2
+2720,Paid Search,South,0
+2721,Organic,West,0
+2722,Organic,Northeast,0
+2723,Organic,West,0
+2724,Paid Social,South,0
+2725,Paid Social,Midwest,0
+2726,Paid Social,Northeast,0
+2727,Paid Search,South,0
+2728,Paid Search,Northeast,2
+2729,Paid Search,West,2
+2730,Paid Social,West,0
+2731,Email,South,0
+2732,Paid Social,Northeast,0
+2733,Paid Search,West,0
+2734,Organic,South,0
+2735,Organic,Northeast,1
+2736,Organic,Midwest,0
+2737,Organic,West,3
+2738,Paid Social,Northeast,0
+2739,Organic,Northeast,0
+2740,Paid Search,West,0
+2741,Paid Social,Northeast,0
+2742,Paid Search,Northeast,0
+2743,Paid Search,Midwest,0
+2744,Paid Search,West,0
+2745,Email,South,0
+2746,Organic,West,0
+2747,Email,Midwest,0
+2748,Paid Search,Northeast,0
+2749,Organic,West,0
+2750,Email,South,0
+2751,Paid Social,South,0
+2752,Email,Midwest,0
+2753,Paid Search,South,0
+2754,Paid Social,Northeast,0
+2755,Organic,Northeast,0
+2756,Paid Search,South,0
+2757,Paid Social,West,0
+2758,Organic,Midwest,0
+2759,Email,West,0
+2760,Paid Search,South,0
+2761,Paid Search,South,1
+2762,Paid Search,Northeast,0
+2763,Email,Northeast,0
+2764,Paid Social,South,0
+2765,Paid Search,West,0
+2766,Organic,West,0
+2767,Paid Social,West,0
+2768,Paid Search,Northeast,0
+2769,Paid Social,West,0
+2770,Email,South,0
+2771,Paid Search,Northeast,2
+2772,Paid Search,West,0
+2773,Organic,Midwest,0
+2774,Paid Social,Northeast,0
+2775,Paid Social,South,0
+2776,Paid Social,South,0
+2777,Paid Search,Midwest,0
+2778,Paid Search,South,0
+2779,Paid Social,West,0
+2780,Paid Search,Northeast,0
+2781,Paid Search,South,0
+2782,Organic,South,0
+2783,Organic,South,2
+2784,Organic,South,0
+2785,Organic,Midwest,0
+2786,Paid Search,West,0
+2787,Organic,West,0
+2788,Paid Search,West,1
+2789,Organic,West,0
+2790,Organic,Midwest,0
+2791,Email,West,0
+2792,Organic,South,2
+2793,Email,South,0
+2794,Paid Search,South,0
+2795,Paid Social,South,1
+2796,Email,South,0
+2797,Paid Search,West,0
+2798,Email,South,3
+2799,Organic,Northeast,0
+2800,Paid Search,South,0
+2801,Organic,Northeast,0
+2802,Organic,Northeast,0
+2803,Organic,Northeast,0
+2804,Organic,South,0
+2805,Paid Social,South,1
+2806,Organic,West,2
+2807,Organic,Midwest,0
+2808,Paid Search,South,0
+2809,Paid Social,South,0
+2810,Email,South,2
+2811,Paid Search,West,0
+2812,Email,Northeast,0
+2813,Email,Northeast,1
+2814,Paid Search,West,1
+2815,Email,South,2
+2816,Organic,Northeast,0
+2817,Paid Social,Northeast,0
+2818,Paid Search,West,0
+2819,Paid Search,West,0
+2820,Paid Social,Midwest,0
+2821,Organic,South,1
+2822,Paid Search,South,0
+2823,Email,West,0
+2824,Paid Search,West,0
+2825,Paid Social,Northeast,0
+2826,Organic,West,0
+2827,Email,Northeast,0
+2828,Paid Search,Northeast,0
+2829,Paid Social,Midwest,0
+2830,Paid Search,South,0
+2831,Paid Social,West,0
+2832,Email,Northeast,0
+2833,Paid Search,South,1
+2834,Paid Search,West,0
+2835,Paid Social,West,0
+2836,Organic,Northeast,0
+2837,Organic,South,0
+2838,Paid Search,Midwest,1
+2839,Organic,Northeast,0
+2840,Paid Social,West,0
+2841,Paid Social,West,1
+2842,Organic,Northeast,0
+2843,Organic,Northeast,0
+2844,Organic,Northeast,0
+2845,Email,West,0
+2846,Paid Social,Northeast,0
+2847,Organic,South,0
+2848,Paid Search,South,1
+2849,Email,Midwest,0
+2850,Paid Social,Northeast,0
+2851,Email,Northeast,0
+2852,Paid Search,West,1
+2853,Paid Search,West,2
+2854,Organic,West,4
+2855,Paid Search,Northeast,2
+2856,Paid Social,South,0
+2857,Paid Search,Midwest,0
+2858,Paid Search,South,0
+2859,Paid Search,West,2
+2860,Paid Search,Midwest,0
+2861,Organic,Northeast,0
+2862,Paid Search,West,0
+2863,Organic,West,0
+2864,Email,Northeast,0
+2865,Paid Social,South,0
+2866,Email,South,2
+2867,Paid Social,South,0
+2868,Organic,Northeast,2
+2869,Paid Search,Midwest,1
+2870,Paid Social,West,0
+2871,Organic,South,0
+2872,Organic,Northeast,0
+2873,Organic,Midwest,3
+2874,Paid Social,South,0
+2875,Organic,West,0
+2876,Paid Social,South,0
+2877,Paid Social,Northeast,0
+2878,Paid Search,Northeast,0
+2879,Email,West,0
+2880,Paid Search,South,0
+2881,Paid Social,West,0
+2882,Organic,Northeast,0
+2883,Paid Search,South,3
+2884,Paid Search,South,0
+2885,Paid Search,West,0
+2886,Organic,West,0
+2887,Paid Social,Northeast,0
+2888,Paid Social,South,0
+2889,Organic,Northeast,0
+2890,Organic,South,0
+2891,Paid Social,South,0
+2892,Email,West,0
+2893,Organic,West,3
+2894,Email,South,0
+2895,Paid Search,South,3
+2896,Organic,West,0
+2897,Paid Social,West,0
+2898,Paid Search,Northeast,0
+2899,Paid Social,South,0
+2900,Paid Search,South,0
+2901,Paid Search,Northeast,0
+2902,Organic,Northeast,4
+2903,Paid Search,Northeast,0
+2904,Paid Social,Midwest,0
+2905,Paid Social,South,0
+2906,Paid Search,Northeast,3
+2907,Organic,Northeast,3
+2908,Paid Search,West,0
+2909,Paid Social,West,0
+2910,Paid Social,South,0
+2911,Paid Search,South,0
+2912,Paid Search,West,0
+2913,Email,Northeast,0
+2914,Organic,Northeast,0
+2915,Paid Search,South,0
+2916,Email,Northeast,0
+2917,Email,South,2
+2918,Organic,West,1
+2919,Paid Social,Midwest,0
+2920,Paid Social,South,1
+2921,Paid Social,West,2
+2922,Email,Northeast,0
+2923,Organic,Northeast,2
+2924,Paid Search,Midwest,0
+2925,Paid Social,Midwest,0
+2926,Organic,Northeast,2
+2927,Organic,South,0
+2928,Organic,Midwest,0
+2929,Organic,Midwest,0
+2930,Paid Social,Midwest,0
+2931,Email,South,0
+2932,Email,Northeast,0
+2933,Paid Search,South,0
+2934,Paid Social,Northeast,0
+2935,Email,West,0
+2936,Paid Search,South,0
+2937,Organic,South,1
+2938,Email,West,0
+2939,Organic,South,0
+2940,Paid Search,South,0
+2941,Paid Search,West,0
+2942,Email,West,0
+2943,Paid Search,Midwest,0
+2944,Email,Northeast,0
+2945,Organic,Midwest,0
+2946,Paid Search,West,0
+2947,Paid Social,Northeast,0
+2948,Paid Social,Northeast,0
+2949,Paid Social,West,0
+2950,Organic,Northeast,0
+2951,Organic,West,0
+2952,Email,South,0
+2953,Email,South,0
+2954,Paid Social,Northeast,1
+2955,Organic,West,1
+2956,Email,South,0
+2957,Email,South,0
+2958,Organic,Midwest,1
+2959,Paid Search,Midwest,0
+2960,Organic,West,0
+2961,Paid Search,South,0
+2962,Paid Social,South,0
+2963,Paid Social,West,0
+2964,Organic,Midwest,0
+2965,Organic,South,1
+2966,Email,Northeast,0
+2967,Email,West,1
+2968,Email,South,3
+2969,Organic,Midwest,1
+2970,Paid Social,South,0
+2971,Paid Social,Northeast,0
+2972,Paid Search,Midwest,0
+2973,Organic,Northeast,2
+2974,Email,South,3
+2975,Paid Social,South,0
+2976,Paid Search,South,3
+2977,Organic,Midwest,0
+2978,Paid Search,West,1
+2979,Email,West,0
+2980,Organic,Northeast,0
+2981,Paid Social,Northeast,0
+2982,Paid Search,South,0
+2983,Email,West,0
+2984,Organic,West,1
+2985,Paid Social,West,0
+2986,Organic,South,0
+2987,Paid Search,South,0
+2988,Paid Social,South,0
+2989,Email,Northeast,2
+2990,Organic,Northeast,0
+2991,Paid Search,West,0
+2992,Organic,Northeast,0
+2993,Email,Northeast,0
+2994,Paid Social,Northeast,0
+2995,Paid Search,West,0
+2996,Organic,Midwest,0
+2997,Paid Search,Midwest,0
+2998,Paid Social,West,0
+2999,Paid Search,South,3
+3000,Organic,Midwest,0
+3001,Email,Northeast,2
+3002,Organic,Northeast,0
+3003,Paid Search,West,0
+3004,Email,West,2
+3005,Email,South,4
+3006,Organic,South,0
+3007,Organic,South,0
+3008,Paid Search,Northeast,1
+3009,Email,Northeast,0
+3010,Paid Search,Northeast,1
+3011,Paid Social,South,0
+3012,Paid Search,West,3
+3013,Paid Social,South,0
+3014,Paid Social,Northeast,0
+3015,Email,South,0
+3016,Paid Social,West,0
+3017,Email,Northeast,0
+3018,Paid Social,Northeast,0
+3019,Paid Search,South,0
+3020,Organic,Midwest,0
+3021,Paid Search,Midwest,0
+3022,Paid Social,West,1
+3023,Email,West,0
+3024,Paid Social,West,0
+3025,Paid Search,Midwest,0
+3026,Paid Social,South,0
+3027,Organic,Northeast,0
+3028,Email,West,0
+3029,Email,South,0
+3030,Email,Northeast,1
+3031,Paid Search,Midwest,0
+3032,Paid Social,South,0
+3033,Organic,Midwest,1
+3034,Paid Search,Midwest,0
+3035,Paid Search,South,0
+3036,Paid Search,West,0
+3037,Paid Social,South,0
+3038,Organic,South,2
+3039,Paid Search,South,4
+3040,Paid Social,Midwest,0
+3041,Paid Search,West,3
+3042,Organic,South,0
+3043,Paid Search,Midwest,0
+3044,Paid Social,Northeast,0
+3045,Email,West,0
+3046,Email,South,0
+3047,Paid Social,Midwest,0
+3048,Paid Social,Northeast,0
+3049,Paid Social,Northeast,0
+3050,Paid Search,South,0
+3051,Paid Search,West,1
+3052,Paid Social,South,0
+3053,Paid Search,West,0
+3054,Paid Search,South,1
+3055,Email,South,0
+3056,Organic,Northeast,0
+3057,Email,West,0
+3058,Paid Search,Northeast,3
+3059,Paid Search,West,0
+3060,Organic,West,0
+3061,Paid Search,West,0
+3062,Paid Search,South,0
+3063,Email,Midwest,0
+3064,Email,West,0
+3065,Email,Northeast,0
+3066,Paid Search,Midwest,1
+3067,Paid Search,Northeast,0
+3068,Organic,South,0
+3069,Paid Search,Northeast,1
+3070,Email,Northeast,1
+3071,Email,South,0
+3072,Email,South,0
+3073,Paid Social,Midwest,1
+3074,Paid Search,Northeast,0
+3075,Email,South,1
+3076,Organic,Northeast,4
+3077,Organic,Midwest,0
+3078,Paid Search,Midwest,0
+3079,Paid Search,Midwest,0
+3080,Organic,Midwest,0
+3081,Email,South,0
+3082,Organic,West,0
+3083,Paid Search,South,0
+3084,Email,South,0
+3085,Email,Midwest,0
+3086,Email,Northeast,0
+3087,Paid Social,Midwest,0
+3088,Paid Search,Midwest,0
+3089,Email,South,0
+3090,Paid Search,Northeast,0
+3091,Paid Social,Northeast,0
+3092,Organic,West,0
+3093,Paid Social,Midwest,0
+3094,Organic,Northeast,2
+3095,Paid Search,South,0
+3096,Email,Midwest,0
+3097,Organic,West,2
+3098,Paid Search,Northeast,0
+3099,Paid Search,Northeast,0
+3100,Paid Social,West,0
+3101,Paid Search,Northeast,1
+3102,Email,Northeast,1
+3103,Organic,West,0
+3104,Paid Social,Midwest,0
+3105,Paid Search,South,0
+3106,Paid Social,Northeast,0
+3107,Email,Northeast,1
+3108,Paid Search,Northeast,0
+3109,Email,West,0
+3110,Email,South,0
+3111,Email,Midwest,0
+3112,Paid Search,West,0
+3113,Email,South,0
+3114,Paid Search,Northeast,2
+3115,Paid Search,South,2
+3116,Organic,West,0
+3117,Email,West,3
+3118,Paid Search,Northeast,0
+3119,Paid Search,Midwest,0
+3120,Paid Search,Midwest,0
+3121,Paid Search,West,0
+3122,Paid Search,Northeast,1
+3123,Paid Search,South,0
+3124,Paid Social,West,0
+3125,Email,South,0
+3126,Email,South,0
+3127,Email,Northeast,0
+3128,Paid Search,South,0
+3129,Organic,South,0
+3130,Organic,West,0
+3131,Organic,South,0
+3132,Organic,South,0
+3133,Organic,Midwest,0
+3134,Paid Social,Northeast,0
+3135,Paid Search,South,0
+3136,Email,Midwest,1
+3137,Email,West,0
+3138,Email,Midwest,0
+3139,Paid Social,Midwest,0
+3140,Paid Search,Northeast,0
+3141,Paid Social,West,0
+3142,Organic,Northeast,0
+3143,Email,West,0
+3144,Paid Social,South,0
+3145,Paid Search,West,0
+3146,Paid Social,Midwest,0
+3147,Organic,West,0
+3148,Email,Northeast,0
+3149,Organic,South,0
+3150,Paid Social,Midwest,0
+3151,Email,West,0
+3152,Paid Search,Northeast,0
+3153,Email,West,0
+3154,Paid Social,West,0
+3155,Paid Social,South,0
+3156,Email,West,0
+3157,Organic,South,0
+3158,Paid Search,South,0
+3159,Organic,South,0
+3160,Paid Search,Midwest,0
+3161,Paid Social,Midwest,0
+3162,Paid Search,South,3
+3163,Paid Social,Midwest,0
+3164,Paid Social,Midwest,0
+3165,Paid Search,Midwest,0
+3166,Paid Social,Northeast,0
+3167,Organic,West,5
+3168,Paid Search,South,1
+3169,Organic,South,1
+3170,Paid Social,Northeast,0
+3171,Email,South,0
+3172,Paid Search,West,0
+3173,Paid Search,South,1
+3174,Paid Search,Midwest,0
+3175,Paid Search,Northeast,0
+3176,Paid Search,South,0
+3177,Email,West,0
+3178,Organic,West,0
+3179,Organic,Northeast,0
+3180,Email,South,1
+3181,Paid Search,Northeast,1
+3182,Paid Search,South,0
+3183,Paid Social,West,0
+3184,Paid Search,West,0
+3185,Paid Social,Northeast,1
+3186,Paid Social,West,0
+3187,Paid Social,Midwest,0
+3188,Paid Social,South,0
+3189,Organic,South,0
+3190,Organic,Midwest,0
+3191,Paid Social,Midwest,0
+3192,Organic,South,0
+3193,Organic,South,0
+3194,Paid Social,Northeast,0
+3195,Paid Social,West,0
+3196,Paid Social,South,0
+3197,Organic,Northeast,0
+3198,Organic,West,0
+3199,Paid Search,West,0
+3200,Paid Social,West,0
+3201,Email,South,0
+3202,Paid Social,Northeast,0
+3203,Paid Search,South,1
+3204,Organic,Northeast,0
+3205,Email,West,0
+3206,Organic,Northeast,1
+3207,Organic,South,0
+3208,Email,South,0
+3209,Paid Social,South,0
+3210,Email,West,0
+3211,Paid Search,South,0
+3212,Email,Northeast,2
+3213,Paid Search,South,0
+3214,Email,South,0
+3215,Paid Search,Northeast,0
+3216,Paid Search,Midwest,4
+3217,Paid Search,Midwest,0
+3218,Paid Search,Midwest,0
+3219,Email,West,0
+3220,Email,West,0
+3221,Paid Social,West,1
+3222,Paid Search,Northeast,0
+3223,Paid Search,Northeast,0
+3224,Paid Search,South,0
+3225,Paid Search,West,2
+3226,Organic,West,0
+3227,Paid Search,West,0
+3228,Paid Social,Northeast,0
+3229,Paid Search,West,0
+3230,Paid Search,South,0
+3231,Paid Social,Northeast,0
+3232,Email,South,0
+3233,Paid Search,Northeast,0
+3234,Paid Search,South,0
+3235,Paid Social,South,0
+3236,Paid Search,South,0
+3237,Paid Search,Midwest,0
+3238,Organic,West,0
+3239,Email,Midwest,0
+3240,Email,South,0
+3241,Paid Social,West,0
+3242,Paid Social,West,0
+3243,Paid Social,Northeast,0
+3244,Email,South,0
+3245,Email,South,0
+3246,Paid Search,Northeast,0
+3247,Paid Social,Midwest,0
+3248,Paid Social,West,0
+3249,Organic,Northeast,0
+3250,Email,West,2
+3251,Paid Social,West,0
+3252,Paid Search,West,0
+3253,Email,South,1
+3254,Paid Search,West,0
+3255,Paid Social,South,1
+3256,Paid Search,Midwest,0
+3257,Email,Northeast,0
+3258,Paid Search,Northeast,0
+3259,Paid Social,Midwest,0
+3260,Organic,South,3
+3261,Paid Search,South,3
+3262,Paid Social,Northeast,0
+3263,Paid Social,Midwest,0
+3264,Paid Search,Northeast,2
+3265,Organic,West,0
+3266,Paid Search,Northeast,0
+3267,Paid Social,Northeast,0
+3268,Email,South,0
+3269,Email,South,1
+3270,Email,South,0
+3271,Paid Search,South,0
+3272,Paid Search,West,1
+3273,Email,Midwest,0
+3274,Paid Social,Northeast,1
+3275,Organic,South,0
+3276,Organic,West,0
+3277,Organic,South,0
+3278,Paid Social,Northeast,0
+3279,Paid Social,West,0
+3280,Organic,Midwest,0
+3281,Paid Social,Midwest,0
+3282,Paid Search,Northeast,0
+3283,Organic,Northeast,0
+3284,Organic,Midwest,1
+3285,Paid Social,Northeast,0
+3286,Paid Search,South,0
+3287,Paid Social,South,1
+3288,Organic,South,0
+3289,Organic,West,0
+3290,Paid Search,West,0
+3291,Paid Search,Midwest,0
+3292,Organic,Northeast,1
+3293,Paid Social,Northeast,0
+3294,Paid Social,South,0
+3295,Organic,Northeast,0
+3296,Paid Search,West,0
+3297,Email,Northeast,1
+3298,Paid Search,South,0
+3299,Paid Social,South,0
+3300,Organic,Midwest,0
+3301,Paid Social,Northeast,0
+3302,Organic,South,0
+3303,Email,South,0
+3304,Paid Social,West,2
+3305,Paid Search,Northeast,0
+3306,Paid Social,West,0
+3307,Paid Social,West,0
+3308,Paid Search,South,0
+3309,Paid Social,West,2
+3310,Paid Social,Northeast,0
+3311,Email,West,0
+3312,Email,South,0
+3313,Email,South,0
+3314,Paid Search,South,0
+3315,Paid Search,Northeast,0
+3316,Email,West,0
+3317,Paid Social,Northeast,0
+3318,Paid Search,Midwest,0
+3319,Organic,South,0
+3320,Organic,West,0
+3321,Paid Social,Northeast,0
+3322,Paid Search,South,0
+3323,Organic,South,0
+3324,Email,Midwest,0
+3325,Organic,Northeast,0
+3326,Organic,Northeast,1
+3327,Organic,Northeast,0
+3328,Paid Social,Midwest,0
+3329,Paid Search,Northeast,0
+3330,Email,Midwest,1
+3331,Email,Northeast,0
+3332,Email,West,0
+3333,Paid Search,West,0
+3334,Paid Search,South,3
+3335,Organic,South,1
+3336,Email,Northeast,4
+3337,Organic,Northeast,0
+3338,Organic,South,0
+3339,Email,Midwest,0
+3340,Email,South,1
+3341,Organic,West,0
+3342,Email,South,0
+3343,Email,Midwest,2
+3344,Paid Search,South,4
+3345,Paid Social,South,0
+3346,Email,South,0
+3347,Paid Search,South,0
+3348,Paid Search,South,0
+3349,Paid Social,Midwest,0
+3350,Paid Search,West,0
+3351,Paid Search,South,0
+3352,Paid Social,Northeast,0
+3353,Organic,South,2
+3354,Paid Social,South,0
+3355,Paid Search,Northeast,3
+3356,Paid Search,West,0
+3357,Email,West,0
+3358,Paid Social,West,0
+3359,Organic,Northeast,0
+3360,Email,West,3
+3361,Organic,Midwest,5
+3362,Paid Search,South,0
+3363,Email,South,0
+3364,Paid Search,West,0
+3365,Organic,South,0
+3366,Email,South,0
+3367,Paid Social,South,0
+3368,Paid Search,Midwest,0
+3369,Paid Search,Northeast,0
+3370,Email,West,2
+3371,Paid Search,Midwest,4
+3372,Email,Midwest,0
+3373,Paid Search,Northeast,0
+3374,Email,Midwest,0
+3375,Organic,Northeast,0
+3376,Organic,Northeast,0
+3377,Organic,South,0
+3378,Paid Search,South,0
+3379,Paid Search,Midwest,0
+3380,Email,Northeast,0
+3381,Paid Social,South,1
+3382,Paid Social,Northeast,1
+3383,Paid Search,West,0
+3384,Paid Search,Midwest,0
+3385,Paid Search,Midwest,1
+3386,Organic,South,0
+3387,Paid Search,Northeast,0
+3388,Email,West,0
+3389,Paid Search,South,0
+3390,Email,South,3
+3391,Paid Social,Midwest,0
+3392,Organic,Northeast,1
+3393,Organic,West,3
+3394,Paid Social,South,0
+3395,Organic,South,0
+3396,Organic,Northeast,0
+3397,Organic,Northeast,3
+3398,Organic,West,0
+3399,Paid Search,Midwest,0
+3400,Email,Northeast,0
+3401,Paid Search,Northeast,0
+3402,Paid Search,Midwest,0
+3403,Organic,Midwest,2
+3404,Paid Social,South,1
+3405,Email,South,0
+3406,Organic,Northeast,0
+3407,Organic,Midwest,0
+3408,Organic,West,0
+3409,Paid Search,Northeast,0
+3410,Paid Search,Midwest,0
+3411,Paid Social,South,0
+3412,Paid Search,South,0
+3413,Paid Search,South,0
+3414,Paid Social,West,3
+3415,Organic,South,0
+3416,Email,South,1
+3417,Paid Social,South,1
+3418,Email,Northeast,0
+3419,Paid Search,Northeast,0
+3420,Paid Search,Midwest,0
+3421,Organic,Northeast,1
+3422,Email,Midwest,0
+3423,Organic,South,1
+3424,Paid Search,South,0
+3425,Organic,South,0
+3426,Email,South,0
+3427,Email,Northeast,0
+3428,Email,South,0
+3429,Organic,Midwest,0
+3430,Email,Midwest,0
+3431,Email,South,2
+3432,Organic,South,0
+3433,Organic,Northeast,0
+3434,Paid Social,Northeast,0
+3435,Email,Northeast,0
+3436,Paid Social,West,0
+3437,Paid Search,Northeast,0
+3438,Email,Northeast,0
+3439,Organic,South,0
+3440,Organic,Northeast,0
+3441,Paid Social,Midwest,0
+3442,Paid Social,Northeast,0
+3443,Paid Search,Northeast,4
+3444,Organic,Midwest,2
+3445,Organic,South,2
+3446,Email,Midwest,0
+3447,Organic,Midwest,0
+3448,Email,South,2
+3449,Email,Midwest,1
+3450,Paid Search,Northeast,4
+3451,Paid Social,South,0
+3452,Email,South,0
+3453,Email,South,0
+3454,Paid Social,Midwest,0
+3455,Organic,West,0
+3456,Paid Search,West,0
+3457,Paid Social,Midwest,0
+3458,Email,South,0
+3459,Email,Northeast,0
+3460,Email,South,0
+3461,Paid Search,South,0
+3462,Paid Search,South,0
+3463,Email,West,0
+3464,Email,South,0
+3465,Paid Search,South,0
+3466,Email,South,0
+3467,Paid Social,West,0
+3468,Email,Midwest,0
+3469,Organic,Midwest,0
+3470,Paid Search,South,0
+3471,Paid Search,West,0
+3472,Organic,Northeast,0
+3473,Email,West,0
+3474,Email,South,0
+3475,Organic,South,1
+3476,Organic,South,2
+3477,Organic,Midwest,0
+3478,Paid Social,Northeast,0
+3479,Paid Social,West,2
+3480,Paid Social,South,0
+3481,Paid Search,South,0
+3482,Email,Northeast,0
+3483,Paid Search,South,0
+3484,Organic,South,0
+3485,Email,South,0
+3486,Email,Midwest,0
+3487,Paid Social,South,0
+3488,Paid Search,West,1
+3489,Paid Search,Midwest,0
+3490,Paid Social,West,0
+3491,Paid Search,Northeast,0
+3492,Email,South,0
+3493,Organic,South,0
+3494,Organic,Midwest,0
+3495,Email,West,0
+3496,Paid Search,Northeast,0
+3497,Organic,Northeast,3
+3498,Organic,West,0
+3499,Paid Search,Northeast,0
+3500,Email,Midwest,0
+3501,Paid Search,South,0
+3502,Organic,West,0
+3503,Organic,Northeast,5
+3504,Paid Search,Northeast,0
+3505,Organic,Midwest,0
+3506,Email,West,1
+3507,Organic,South,2
+3508,Paid Social,South,0
+3509,Organic,Midwest,0
+3510,Paid Search,West,0
+3511,Paid Social,West,0
+3512,Paid Search,West,0
+3513,Organic,Northeast,0
+3514,Organic,Northeast,0
+3515,Organic,Midwest,0
+3516,Organic,West,3
+3517,Paid Search,South,2
+3518,Paid Social,Northeast,1
+3519,Paid Search,West,0
+3520,Paid Search,Northeast,0
+3521,Paid Search,South,0
+3522,Paid Social,South,0
+3523,Paid Search,Midwest,0
+3524,Paid Search,Midwest,0
+3525,Paid Search,South,2
+3526,Paid Search,Midwest,0
+3527,Organic,Midwest,0
+3528,Organic,South,2
+3529,Organic,Midwest,0
+3530,Paid Social,South,0
+3531,Paid Search,Northeast,1
+3532,Organic,Northeast,0
+3533,Paid Social,Northeast,0
+3534,Paid Search,South,0
+3535,Paid Search,West,0
+3536,Paid Search,Midwest,1
+3537,Paid Search,West,0
+3538,Paid Social,South,0
+3539,Email,South,0
+3540,Paid Search,South,0
+3541,Paid Search,Northeast,0
+3542,Organic,Northeast,1
+3543,Paid Search,Midwest,0
+3544,Paid Social,West,0
+3545,Organic,Northeast,0
+3546,Paid Search,Northeast,1
+3547,Paid Search,West,0
+3548,Paid Social,South,0
+3549,Paid Social,West,0
+3550,Email,Midwest,0
+3551,Organic,West,1
+3552,Paid Search,South,0
+3553,Email,Midwest,2
+3554,Paid Social,South,1
+3555,Paid Search,Midwest,0
+3556,Email,South,0
+3557,Paid Search,Northeast,0
+3558,Paid Social,South,0
+3559,Paid Search,South,0
+3560,Paid Social,West,0
+3561,Paid Social,Midwest,0
+3562,Organic,Midwest,0
+3563,Paid Search,Northeast,2
+3564,Paid Social,Midwest,2
+3565,Paid Social,South,0
+3566,Email,West,0
+3567,Email,West,0
+3568,Email,Northeast,0
+3569,Organic,West,0
+3570,Organic,Northeast,0
+3571,Paid Social,South,0
+3572,Paid Social,South,0
+3573,Organic,Northeast,0
+3574,Organic,Midwest,0
+3575,Organic,Northeast,0
+3576,Paid Social,Northeast,2
+3577,Paid Search,Midwest,0
+3578,Paid Social,Midwest,0
+3579,Email,West,0
+3580,Paid Social,Midwest,1
+3581,Paid Social,Midwest,0
+3582,Organic,South,0
+3583,Paid Social,Northeast,1
+3584,Organic,Northeast,0
+3585,Paid Social,South,0
+3586,Paid Social,Midwest,0
+3587,Paid Social,South,0
+3588,Organic,Midwest,0
+3589,Paid Search,South,0
+3590,Paid Search,Northeast,0
+3591,Organic,Northeast,1
+3592,Paid Search,West,0
+3593,Email,Midwest,0
+3594,Email,West,0
+3595,Paid Social,Northeast,0
+3596,Email,West,0
+3597,Paid Search,Northeast,0
+3598,Email,Northeast,0
+3599,Paid Social,West,0
+3600,Email,South,0
+3601,Paid Search,Midwest,2
+3602,Email,Northeast,0
+3603,Paid Search,Midwest,0
+3604,Paid Search,West,0
+3605,Paid Search,South,0
+3606,Paid Search,Midwest,2
+3607,Organic,Northeast,0
+3608,Paid Search,Midwest,0
+3609,Organic,South,0
+3610,Organic,Northeast,0
+3611,Email,South,0
+3612,Paid Search,Northeast,0
+3613,Paid Social,West,0
+3614,Organic,South,0
+3615,Paid Social,Northeast,0
+3616,Paid Search,South,0
+3617,Email,South,0
+3618,Organic,Midwest,0
+3619,Organic,West,0
+3620,Paid Search,South,1
+3621,Email,West,0
+3622,Paid Search,Midwest,0
+3623,Paid Search,Northeast,0
+3624,Organic,Midwest,0
+3625,Paid Search,South,0
+3626,Paid Search,Midwest,0
+3627,Paid Search,West,0
+3628,Organic,South,0
+3629,Organic,West,0
+3630,Email,West,0
+3631,Organic,South,1
+3632,Paid Search,Midwest,0
+3633,Paid Social,South,1
+3634,Paid Social,West,3
+3635,Paid Search,Midwest,1
+3636,Paid Social,Northeast,0
+3637,Organic,South,0
+3638,Paid Search,Midwest,0
+3639,Paid Search,Northeast,0
+3640,Paid Search,Northeast,0
+3641,Paid Search,South,0
+3642,Organic,South,0
+3643,Paid Social,South,0
+3644,Paid Social,South,0
+3645,Organic,Northeast,0
+3646,Paid Search,Midwest,2
+3647,Paid Social,South,2
+3648,Paid Social,Northeast,0
+3649,Email,South,2
+3650,Organic,Midwest,1
+3651,Organic,Northeast,0
+3652,Paid Social,Northeast,0
+3653,Organic,Northeast,0
+3654,Paid Search,West,0
+3655,Paid Search,West,0
+3656,Paid Search,West,0
+3657,Paid Social,Midwest,0
+3658,Paid Social,Midwest,1
+3659,Email,South,0
+3660,Organic,Midwest,0
+3661,Paid Social,Northeast,0
+3662,Paid Social,Midwest,0
+3663,Paid Search,West,0
+3664,Paid Search,South,0
+3665,Email,South,0
+3666,Paid Social,South,1
+3667,Organic,Midwest,1
+3668,Paid Search,Midwest,0
+3669,Paid Search,West,0
+3670,Paid Social,South,0
+3671,Paid Search,West,0
+3672,Paid Search,Midwest,0
+3673,Email,West,0
+3674,Paid Search,South,0
+3675,Email,South,0
+3676,Paid Search,Midwest,0
+3677,Paid Search,Midwest,0
+3678,Paid Social,West,0
+3679,Organic,Northeast,0
+3680,Paid Social,Northeast,0
+3681,Organic,West,0
+3682,Paid Search,South,0
+3683,Organic,Midwest,0
+3684,Paid Search,South,0
+3685,Email,Northeast,0
+3686,Email,West,0
+3687,Organic,Midwest,0
+3688,Paid Social,South,0
+3689,Paid Search,South,0
+3690,Paid Search,West,0
+3691,Organic,Northeast,0
+3692,Paid Social,West,1
+3693,Organic,South,1
+3694,Paid Search,Midwest,1
+3695,Paid Social,West,0
+3696,Paid Search,Midwest,0
+3697,Organic,South,1
+3698,Email,Midwest,0
+3699,Organic,South,4
+3700,Paid Search,South,2
+3701,Email,West,0
+3702,Email,West,1
+3703,Paid Social,Midwest,2
+3704,Organic,South,0
+3705,Organic,Northeast,0
+3706,Organic,Northeast,0
+3707,Email,Midwest,0
+3708,Paid Search,West,0
+3709,Paid Search,South,3
+3710,Organic,West,0
+3711,Paid Search,Northeast,3
+3712,Email,South,0
+3713,Email,Northeast,0
+3714,Email,South,0
+3715,Organic,Northeast,0
+3716,Paid Social,West,0
+3717,Paid Social,Northeast,0
+3718,Paid Search,West,0
+3719,Paid Social,South,0
+3720,Paid Search,West,0
+3721,Paid Social,Midwest,1
+3722,Organic,West,0
+3723,Organic,Northeast,1
+3724,Paid Search,Midwest,0
+3725,Paid Social,West,0
+3726,Organic,Northeast,2
+3727,Paid Search,Northeast,0
+3728,Paid Search,South,0
+3729,Paid Search,West,0
+3730,Email,South,2
+3731,Paid Search,South,0
+3732,Organic,Northeast,0
+3733,Paid Social,Northeast,2
+3734,Paid Social,West,0
+3735,Paid Search,Northeast,0
+3736,Paid Social,Midwest,0
+3737,Email,West,0
+3738,Organic,Northeast,0
+3739,Organic,Midwest,0
+3740,Email,Northeast,0
+3741,Organic,Midwest,2
+3742,Organic,Northeast,1
+3743,Organic,Midwest,0
+3744,Paid Search,South,0
+3745,Paid Search,South,0
+3746,Paid Search,Midwest,0
+3747,Email,Northeast,0
+3748,Paid Social,Midwest,0
+3749,Paid Social,South,0
+3750,Organic,Midwest,0
+3751,Organic,Northeast,0
+3752,Organic,Midwest,0
+3753,Paid Social,Northeast,0
+3754,Email,South,0
+3755,Paid Search,Northeast,0
+3756,Paid Search,Midwest,0
+3757,Paid Search,South,0
+3758,Paid Social,West,0
+3759,Paid Social,West,2
+3760,Organic,Northeast,0
+3761,Paid Search,Midwest,1
+3762,Email,Northeast,0
+3763,Paid Social,South,0
+3764,Paid Search,Midwest,1
+3765,Paid Social,Midwest,0
+3766,Paid Search,Midwest,0
+3767,Email,South,2
+3768,Paid Social,South,0
+3769,Paid Search,Northeast,4
+3770,Paid Search,Midwest,2
+3771,Paid Social,South,0
+3772,Organic,Midwest,0
+3773,Paid Social,Northeast,0
+3774,Email,South,0
+3775,Email,South,0
+3776,Organic,Northeast,0
+3777,Organic,South,0
+3778,Email,West,0
+3779,Email,West,2
+3780,Organic,South,1
+3781,Paid Social,South,0
+3782,Paid Social,Northeast,0
+3783,Paid Search,West,0
+3784,Organic,Northeast,0
+3785,Organic,West,0
+3786,Paid Search,South,0
+3787,Email,South,0
+3788,Paid Social,West,1
+3789,Paid Search,Northeast,0
+3790,Organic,Midwest,0
+3791,Paid Search,South,0
+3792,Paid Search,Northeast,0
+3793,Email,South,0
+3794,Email,Midwest,0
+3795,Paid Search,Midwest,0
+3796,Email,Northeast,0
+3797,Paid Social,West,0
+3798,Paid Search,Northeast,0
+3799,Paid Search,Northeast,0
+3800,Email,South,0
+3801,Paid Search,Northeast,1
+3802,Organic,Northeast,0
+3803,Organic,West,0
+3804,Organic,South,0
+3805,Paid Search,Northeast,0
+3806,Organic,Northeast,0
+3807,Paid Social,Midwest,1
+3808,Paid Social,West,0
+3809,Paid Search,South,0
+3810,Paid Search,Northeast,2
+3811,Email,Northeast,0
+3812,Paid Social,Northeast,1
+3813,Paid Search,Northeast,0
+3814,Email,South,2
+3815,Paid Search,Northeast,0
+3816,Email,South,2
+3817,Paid Social,South,0
+3818,Organic,West,1
+3819,Organic,West,1
+3820,Paid Social,Midwest,0
+3821,Paid Social,South,0
+3822,Paid Social,South,0
+3823,Organic,South,0
+3824,Paid Social,Midwest,0
+3825,Paid Search,South,0
+3826,Paid Search,West,0
+3827,Paid Social,West,0
+3828,Paid Social,South,0
+3829,Organic,Midwest,2
+3830,Paid Search,Northeast,0
+3831,Paid Social,Northeast,0
+3832,Organic,South,0
+3833,Organic,Northeast,0
+3834,Paid Social,West,0
+3835,Paid Social,Northeast,1
+3836,Paid Social,South,1
+3837,Organic,Midwest,0
+3838,Paid Search,Midwest,0
+3839,Organic,South,0
+3840,Email,West,0
+3841,Paid Social,Midwest,0
+3842,Paid Search,South,0
+3843,Paid Social,Northeast,1
+3844,Paid Social,South,0
+3845,Paid Search,West,2
+3846,Email,Midwest,0
+3847,Organic,West,3
+3848,Email,South,0
+3849,Email,Northeast,0
+3850,Paid Search,Northeast,1
+3851,Paid Social,South,0
+3852,Paid Search,Midwest,0
+3853,Email,West,0
+3854,Organic,South,0
+3855,Email,South,0
+3856,Paid Search,South,0
+3857,Paid Social,South,0
+3858,Email,Northeast,0
+3859,Paid Social,Northeast,0
+3860,Organic,Northeast,0
+3861,Organic,Northeast,0
+3862,Email,Northeast,2
+3863,Paid Social,Northeast,0
+3864,Paid Search,Midwest,0
+3865,Paid Search,South,2
+3866,Paid Social,West,0
+3867,Paid Social,Northeast,0
+3868,Email,South,0
+3869,Email,South,0
+3870,Paid Search,Northeast,0
+3871,Paid Social,West,0
+3872,Paid Search,Northeast,0
+3873,Paid Search,West,0
+3874,Organic,West,0
+3875,Paid Search,South,0
+3876,Paid Social,South,0
+3877,Paid Search,Midwest,0
+3878,Organic,South,1
+3879,Email,Midwest,0
+3880,Paid Search,Northeast,1
+3881,Paid Social,Northeast,0
+3882,Email,South,0
+3883,Organic,South,0
+3884,Paid Search,West,0
+3885,Organic,Northeast,0
+3886,Organic,West,1
+3887,Organic,Northeast,0
+3888,Email,South,0
+3889,Email,South,0
+3890,Paid Social,South,2
+3891,Organic,Northeast,0
+3892,Paid Social,South,0
+3893,Email,West,0
+3894,Paid Social,South,0
+3895,Email,South,0
+3896,Organic,West,0
+3897,Paid Search,Midwest,0
+3898,Organic,South,0
+3899,Paid Social,South,0
+3900,Organic,West,0
+3901,Paid Social,Midwest,0
+3902,Paid Social,Northeast,0
+3903,Organic,South,0
+3904,Paid Search,West,0
+3905,Organic,Northeast,0
+3906,Paid Social,West,1
+3907,Paid Social,Northeast,0
+3908,Paid Social,West,0
+3909,Email,South,0
+3910,Paid Social,South,0
+3911,Paid Search,West,0
+3912,Paid Search,South,2
+3913,Paid Search,South,2
+3914,Organic,Northeast,0
+3915,Organic,Northeast,0
+3916,Paid Social,Northeast,0
+3917,Email,Midwest,0
+3918,Paid Social,Northeast,0
+3919,Email,Northeast,3
+3920,Organic,South,3
+3921,Organic,Midwest,3
+3922,Paid Social,Midwest,1
+3923,Organic,Northeast,0
+3924,Paid Search,Northeast,0
+3925,Organic,West,0
+3926,Paid Search,South,0
+3927,Email,West,0
+3928,Email,West,0
+3929,Email,West,0
+3930,Paid Search,Northeast,1
+3931,Organic,West,0
+3932,Paid Search,West,2
+3933,Email,Midwest,0
+3934,Paid Search,South,2
+3935,Paid Social,South,0
+3936,Paid Social,Northeast,2
+3937,Paid Social,South,0
+3938,Paid Search,Midwest,0
+3939,Paid Search,South,0
+3940,Paid Social,South,0
+3941,Organic,South,0
+3942,Organic,Midwest,0
+3943,Paid Search,West,0
+3944,Paid Social,Northeast,0
+3945,Paid Search,South,0
+3946,Paid Search,Northeast,0
+3947,Email,Midwest,4
+3948,Email,Midwest,0
+3949,Paid Search,West,0
+3950,Paid Search,South,0
+3951,Paid Search,West,2
+3952,Organic,Northeast,0
+3953,Organic,Midwest,0
+3954,Paid Search,Northeast,0
+3955,Paid Search,West,0
+3956,Organic,South,6
+3957,Organic,Midwest,0
+3958,Paid Social,West,1
+3959,Paid Search,Northeast,0
+3960,Paid Search,Northeast,0
+3961,Email,West,0
+3962,Paid Social,South,1
+3963,Paid Search,Northeast,0
+3964,Email,South,0
+3965,Paid Search,Midwest,0
+3966,Organic,Northeast,0
+3967,Paid Social,South,4
+3968,Paid Search,Northeast,2
+3969,Email,South,0
+3970,Paid Social,West,2
+3971,Organic,West,0
+3972,Paid Social,Midwest,0
+3973,Paid Search,Northeast,0
+3974,Email,West,2
+3975,Paid Search,South,0
+3976,Organic,Northeast,0
+3977,Paid Social,West,0
+3978,Paid Social,West,0
+3979,Paid Search,Midwest,0
+3980,Paid Social,Midwest,2
+3981,Organic,Northeast,0
+3982,Organic,Northeast,0
+3983,Paid Search,Midwest,2
+3984,Paid Search,Northeast,0
+3985,Organic,South,0
+3986,Organic,West,0
+3987,Paid Search,West,0
+3988,Paid Social,South,0
+3989,Paid Social,West,0
+3990,Organic,West,0
+3991,Paid Search,Midwest,1
+3992,Paid Search,Northeast,1
+3993,Organic,South,3
+3994,Paid Search,South,1
+3995,Paid Social,Northeast,0
+3996,Paid Social,South,0
+3997,Paid Social,Northeast,0
+3998,Paid Social,South,0
+3999,Paid Social,West,0
+4000,Paid Search,Northeast,0
