@@ -14,9 +14,14 @@ Save each notebook and its CSV data file in the same folder on your computer. Th
 ## Folder layout
 
 ```
-2026-mod2/                     Fall 2026 MOD 2
-  general/                     syllabus and software setup guide
+2026-mod2/                        Fall 2026 MOD 2
+  general/                        syllabus and software setup guide
   lectures/
-    L01_intro-visual-design/   notebook and data for Lecture 1
-      supplement/              extra slides
+    L01_intro-visual-design/      Lecture 1: slides (PDF), notebook and data
+      L1-A/                       AI exercise notebook for group A, with its own copy of the data
+      L1-B/                       AI exercise notebook for group B, with its own copy of the data
+    L02_designing-visualization/  Lecture 2: slides (PDF), chart-types notebook, declutter exercise, data
+    L03_data-exploration/         Lecture 3: slides (PDF), two notebooks, data
 ```
+
+Slides are published as PDF.
